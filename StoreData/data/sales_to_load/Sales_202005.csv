@@ -1,0 +1,275 @@
+first,last,addr,city,state,zip,date,prod_id,prod_desc,unit_price,qty
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2020-05-01,307,Sandpaper,3.0,4
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2020-05-01,319,Paint,19.99,2
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2020-05-01,325,Toolbox,50.0,5
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2020-05-01,309,Chisel,4.99,5
+Rey,Aguilar,8339 College Street,Wilmot,WI,53192,2020-05-01,325,Toolbox,50.0,4
+Rey,Aguilar,8339 College Street,Wilmot,WI,53192,2020-05-01,315,Pliers,15.99,2
+Rey,Aguilar,8339 College Street,Wilmot,WI,53192,2020-05-01,304,Bolt,1.0,5
+Rey,Aguilar,8339 College Street,Wilmot,WI,53192,2020-05-01,303,Screw,0.5,5
+C-3Po,Walker,6648 Canterbury Drive,O Brien,OR,97534,2020-05-01,306,Clamp,2.99,4
+C-3Po,Walker,6648 Canterbury Drive,O Brien,OR,97534,2020-05-01,322,Monkeywrench,29.95,2
+C-3Po,Walker,6648 Canterbury Drive,O Brien,OR,97534,2020-05-01,312,Plane,10.99,5
+C-3Po,Walker,6648 Canterbury Drive,O Brien,OR,97534,2020-05-01,313,Wrench,11.0,5
+Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,2020-05-01,304,Bolt,1.0,4
+Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,2020-05-01,307,Sandpaper,3.0,2
+Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,2020-05-01,320,Saw,20.99,5
+Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,2020-05-01,301,Nail,0.25,5
+Tey How,Rodriguez,9164 Madison Street,Brick,NJ,08723,2020-05-02,318,Hacksaw,19.99,8
+Tey How,Rodriguez,9164 Madison Street,Brick,NJ,08723,2020-05-02,310,Scraper,7.99,3
+Rabe,Vincent,3541 3rd Street,Salol,MN,56756,2020-05-02,312,Plane,10.99,8
+Rabe,Vincent,3541 3rd Street,Salol,MN,56756,2020-05-02,305,Bradawl,1.99,3
+Biggs,Wood,7848 9th Street West,Quanah,TX,79252,2020-05-03,312,Plane,10.99,3
+Biggs,Wood,7848 9th Street West,Quanah,TX,79252,2020-05-03,301,Nail,0.25,2
+Biggs,Wood,7848 9th Street West,Quanah,TX,79252,2020-05-03,325,Toolbox,50.0,3
+Biggs,Wood,7848 9th Street West,Quanah,TX,79252,2020-05-03,300,Washer,0.1,8
+Captain Antilles,Walker,8516 Pheasant Run,Washington,DC,20005,2020-05-03,314,Mallet,12.0,3
+Captain Antilles,Walker,8516 Pheasant Run,Washington,DC,20005,2020-05-03,302,Nut,0.25,2
+Captain Antilles,Walker,8516 Pheasant Run,Washington,DC,20005,2020-05-03,303,Screw,0.5,3
+Captain Antilles,Walker,8516 Pheasant Run,Washington,DC,20005,2020-05-03,312,Plane,10.99,8
+Captain Antilles,Mcdaniel,6326 Heather Lane,Ohatchee,AL,36271,2020-05-03,326,Drill,69.0,3
+Captain Antilles,Mcdaniel,6326 Heather Lane,Ohatchee,AL,36271,2020-05-03,313,Wrench,11.0,2
+Captain Antilles,Mcdaniel,6326 Heather Lane,Ohatchee,AL,36271,2020-05-03,308,Screwdriver,3.0,3
+Captain Antilles,Mcdaniel,6326 Heather Lane,Ohatchee,AL,36271,2020-05-03,302,Nut,0.25,8
+Motti,Mcbride,6879 Pheasant Run,Windham,NH,03087,2020-05-03,308,Screwdriver,3.0,3
+Motti,Mcbride,6879 Pheasant Run,Windham,NH,03087,2020-05-03,327,Ladder,80.0,2
+Motti,Mcbride,6879 Pheasant Run,Windham,NH,03087,2020-05-03,313,Wrench,11.0,3
+Motti,Mcbride,6879 Pheasant Run,Windham,NH,03087,2020-05-03,304,Bolt,1.0,8
+Senator Ask Aak,Miller,9727 Devonshire Drive,Ridgeland,MS,39157,2020-05-04,307,Sandpaper,3.0,2
+Darth Maul,Bass,2864 West Avenue,Fort Hall,ID,83203,2020-05-05,308,Screwdriver,3.0,5
+Darth Maul,Bass,2864 West Avenue,Fort Hall,ID,83203,2020-05-05,314,Mallet,12.0,5
+Darth Maul,Bass,2864 West Avenue,Fort Hall,ID,83203,2020-05-05,301,Nail,0.25,6
+Gold Leader,Elliott,9326 Sycamore Street,Victor,WV,25938,2020-05-05,314,Mallet,12.0,5
+Gold Leader,Elliott,9326 Sycamore Street,Victor,WV,25938,2020-05-05,309,Chisel,4.99,5
+Gold Leader,Elliott,9326 Sycamore Street,Victor,WV,25938,2020-05-05,328,Workbench,300.0,6
+Plo Koon,Vincent,6199 Lake Avenue,Valley Ford,CA,94972,2020-05-05,315,Pliers,15.99,5
+Plo Koon,Vincent,6199 Lake Avenue,Valley Ford,CA,94972,2020-05-05,317,Level,16.99,5
+Plo Koon,Vincent,6199 Lake Avenue,Valley Ford,CA,94972,2020-05-05,309,Chisel,4.99,6
+Padme,Todd,7428 West Avenue,Scotland,IN,47457,2020-05-06,301,Nail,0.25,3
+Padme,Todd,7428 West Avenue,Scotland,IN,47457,2020-05-06,303,Screw,0.5,1
+Padme,Todd,7428 West Avenue,Scotland,IN,47457,2020-05-06,317,Level,16.99,9
+Padme,Todd,7428 West Avenue,Scotland,IN,47457,2020-05-06,318,Hacksaw,19.99,6
+Senator Ask Aak,Ingram,3141 Sycamore Drive,Wilson,LA,70789,2020-05-06,327,Ladder,80.0,3
+Senator Ask Aak,Ingram,3141 Sycamore Drive,Wilson,LA,70789,2020-05-06,305,Bradawl,1.99,1
+Senator Ask Aak,Ingram,3141 Sycamore Drive,Wilson,LA,70789,2020-05-06,320,Saw,20.99,9
+Senator Ask Aak,Ingram,3141 Sycamore Drive,Wilson,LA,70789,2020-05-06,311,Hammer,8.27,6
+Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,2020-05-06,304,Bolt,1.0,3
+Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,2020-05-06,323,Hatchet,35.99,1
+Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,2020-05-06,326,Drill,69.0,9
+Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,2020-05-06,309,Chisel,4.99,6
+Sun Rit,Curtis,4443 Pheasant Run,Magnolia,MS,39652,2020-05-06,302,Nut,0.25,3
+Sun Rit,Curtis,4443 Pheasant Run,Magnolia,MS,39652,2020-05-06,324,Wire,37.0,1
+Sun Rit,Curtis,4443 Pheasant Run,Magnolia,MS,39652,2020-05-06,307,Sandpaper,3.0,9
+Sun Rit,Curtis,4443 Pheasant Run,Magnolia,MS,39652,2020-05-06,315,Pliers,15.99,6
+Captain Antilles,Johnston,5491 Strawberry Lane,Pittsburgh,PA,15234,2020-05-07,313,Wrench,11.0,5
+Captain Antilles,Johnston,5491 Strawberry Lane,Pittsburgh,PA,15234,2020-05-07,320,Saw,20.99,4
+Captain Antilles,Johnston,5491 Strawberry Lane,Pittsburgh,PA,15234,2020-05-07,324,Wire,37.0,5
+Captain Antilles,Johnston,5491 Strawberry Lane,Pittsburgh,PA,15234,2020-05-07,328,Workbench,300.0,8
+Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,2020-05-07,320,Saw,20.99,5
+Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,2020-05-07,324,Wire,37.0,4
+Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,2020-05-07,314,Mallet,12.0,5
+Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,2020-05-07,313,Wrench,11.0,8
+Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,2020-05-07,328,Workbench,300.0,5
+Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,2020-05-07,309,Chisel,4.99,4
+Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,2020-05-07,323,Hatchet,35.99,5
+Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,2020-05-07,306,Clamp,2.99,8
+Plo Koon,Zhang,6999 Devon Road,Arminto,WY,82630,2020-05-07,322,Monkeywrench,29.95,5
+Plo Koon,Zhang,6999 Devon Road,Arminto,WY,82630,2020-05-07,302,Nut,0.25,4
+Plo Koon,Zhang,6999 Devon Road,Arminto,WY,82630,2020-05-07,316,Anvil,16.2,5
+Plo Koon,Zhang,6999 Devon Road,Arminto,WY,82630,2020-05-07,328,Workbench,300.0,8
+Wedge,Todd,7511 Route 1,Carson City,NV,89701,2020-05-08,305,Bradawl,1.99,6
+C-3Po,Miller,9992 Heather Lane,Vanzant,MO,65768,2020-05-09,325,Toolbox,50.0,1
+Rabe,Thornton,2133 Edgewood Road,Red Lodge,MT,59068,2020-05-10,323,Hatchet,35.99,9
+Rabe,Thornton,2133 Edgewood Road,Red Lodge,MT,59068,2020-05-10,303,Screw,0.5,9
+Rabe,Thornton,2133 Edgewood Road,Red Lodge,MT,59068,2020-05-10,322,Monkeywrench,29.95,8
+Rabe,Thornton,2133 Edgewood Road,Red Lodge,MT,59068,2020-05-10,324,Wire,37.0,7
+Biggs,Greene,1555 Valley Road,Kahului,HI,96732,2020-05-10,325,Toolbox,50.0,9
+Biggs,Greene,1555 Valley Road,Kahului,HI,96732,2020-05-10,329,Chainsaw,499.99,9
+Biggs,Greene,1555 Valley Road,Kahului,HI,96732,2020-05-10,328,Workbench,300.0,8
+Biggs,Greene,1555 Valley Road,Kahului,HI,96732,2020-05-10,323,Hatchet,35.99,7
+Bala-Tik,Miller,8714 Washington Street,Thomaston,GA,30286,2020-05-10,315,Pliers,15.99,9
+Bala-Tik,Miller,8714 Washington Street,Thomaston,GA,30286,2020-05-10,321,Axe,27.99,9
+Bala-Tik,Miller,8714 Washington Street,Thomaston,GA,30286,2020-05-10,303,Screw,0.5,8
+Bala-Tik,Miller,8714 Washington Street,Thomaston,GA,30286,2020-05-10,306,Clamp,2.99,7
+Colonel Datoo,Johnston,7994 West Avenue,Richmond,VA,23226,2020-05-10,321,Axe,27.99,9
+Colonel Datoo,Johnston,7994 West Avenue,Richmond,VA,23226,2020-05-10,318,Hacksaw,19.99,9
+Colonel Datoo,Johnston,7994 West Avenue,Richmond,VA,23226,2020-05-10,316,Anvil,16.2,8
+Colonel Datoo,Johnston,7994 West Avenue,Richmond,VA,23226,2020-05-10,320,Saw,20.99,7
+Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,2020-05-11,326,Drill,69.0,1
+Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,2020-05-11,301,Nail,0.25,6
+Bala-Tik,Walker,7413 College Street,Dresher,PA,19025,2020-05-11,312,Plane,10.99,1
+Plo Koon,Bass,7380 Heather Lane,Warner,NH,03278,2020-05-11,302,Nut,0.25,1
+Plo Koon,Bass,7380 Heather Lane,Warner,NH,03278,2020-05-11,306,Clamp,2.99,6
+Plo Koon,Bass,7380 Heather Lane,Warner,NH,03278,2020-05-11,319,Paint,19.99,1
+Dodonna,Garza,3639 Briarwood Court,Tarzan,TX,79783,2020-05-11,322,Monkeywrench,29.95,1
+Dodonna,Garza,3639 Briarwood Court,Tarzan,TX,79783,2020-05-11,323,Hatchet,35.99,6
+Dodonna,Garza,3639 Briarwood Court,Tarzan,TX,79783,2020-05-11,321,Axe,27.99,1
+Jobal,Benson,5151 Jackson Avenue,Peachland,NC,28133,2020-05-12,328,Workbench,300.0,4
+Jobal,Benson,5151 Jackson Avenue,Peachland,NC,28133,2020-05-12,313,Wrench,11.0,3
+Jobal,Benson,5151 Jackson Avenue,Peachland,NC,28133,2020-05-12,317,Level,16.99,3
+Jobal,Benson,5151 Jackson Avenue,Peachland,NC,28133,2020-05-12,329,Chainsaw,499.99,1
+Plo Koon,Vincent,6199 Lake Avenue,Valley Ford,CA,94972,2020-05-12,313,Wrench,11.0,4
+Plo Koon,Vincent,6199 Lake Avenue,Valley Ford,CA,94972,2020-05-12,310,Scraper,7.99,3
+Plo Koon,Vincent,6199 Lake Avenue,Valley Ford,CA,94972,2020-05-12,304,Bolt,1.0,3
+Plo Koon,Vincent,6199 Lake Avenue,Valley Ford,CA,94972,2020-05-12,315,Pliers,15.99,1
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2020-05-12,323,Hatchet,35.99,4
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2020-05-12,325,Toolbox,50.0,3
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2020-05-12,306,Clamp,2.99,3
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2020-05-12,316,Anvil,16.2,1
+Motti,Bass,2326 Brookside Drive,Seven Valleys,PA,17360,2020-05-12,305,Bradawl,1.99,4
+Motti,Bass,2326 Brookside Drive,Seven Valleys,PA,17360,2020-05-12,310,Scraper,7.99,3
+Motti,Bass,2326 Brookside Drive,Seven Valleys,PA,17360,2020-05-12,308,Screwdriver,3.0,3
+Motti,Bass,2326 Brookside Drive,Seven Valleys,PA,17360,2020-05-12,302,Nut,0.25,1
+Rieekan,Mccarthy,8944 Canterbury Drive,Dunseith,ND,58329,2020-05-13,310,Scraper,7.99,7
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2020-05-14,324,Wire,37.0,7
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2020-05-14,312,Plane,10.99,8
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2020-05-14,326,Drill,69.0,8
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2020-05-14,319,Paint,19.99,6
+Bib Fortuna,Mitchell,8088 Lake Street,Collinston,UT,84306,2020-05-14,304,Bolt,1.0,7
+Bib Fortuna,Mitchell,8088 Lake Street,Collinston,UT,84306,2020-05-14,310,Scraper,7.99,8
+Bib Fortuna,Mitchell,8088 Lake Street,Collinston,UT,84306,2020-05-14,317,Level,16.99,8
+Bib Fortuna,Mitchell,8088 Lake Street,Collinston,UT,84306,2020-05-14,313,Wrench,11.0,6
+C-3Po,Mcdaniel,8717 Pheasant Run,Monument Valley,UT,84536,2020-05-14,309,Chisel,4.99,7
+C-3Po,Mcdaniel,8717 Pheasant Run,Monument Valley,UT,84536,2020-05-14,327,Ladder,80.0,8
+C-3Po,Mcdaniel,8717 Pheasant Run,Monument Valley,UT,84536,2020-05-14,303,Screw,0.5,8
+C-3Po,Mcdaniel,8717 Pheasant Run,Monument Valley,UT,84536,2020-05-14,324,Wire,37.0,6
+Dodonna,Burke,3580 Jefferson Court,Hollenberg,KS,66946,2020-05-14,309,Chisel,4.99,7
+Dodonna,Burke,3580 Jefferson Court,Hollenberg,KS,66946,2020-05-14,311,Hammer,8.27,8
+Dodonna,Burke,3580 Jefferson Court,Hollenberg,KS,66946,2020-05-14,303,Screw,0.5,8
+Dodonna,Burke,3580 Jefferson Court,Hollenberg,KS,66946,2020-05-14,319,Paint,19.99,6
+Senator Ask Aak,Mitchell,3854 Walnut Street,Modoc,IN,47358,2020-05-15,313,Wrench,11.0,8
+Senator Ask Aak,Mitchell,3854 Walnut Street,Modoc,IN,47358,2020-05-15,328,Workbench,300.0,8
+Plo Koon,Vincent,6199 Lake Avenue,Valley Ford,CA,94972,2020-05-15,315,Pliers,15.99,8
+Plo Koon,Vincent,6199 Lake Avenue,Valley Ford,CA,94972,2020-05-15,305,Bradawl,1.99,8
+Tey How,Rivera,2130 Washington Street,Mountlake Terrace,WA,98043,2020-05-16,303,Screw,0.5,8
+Tey How,Rivera,2130 Washington Street,Mountlake Terrace,WA,98043,2020-05-16,314,Mallet,12.0,3
+Tey How,Rivera,2130 Washington Street,Mountlake Terrace,WA,98043,2020-05-16,306,Clamp,2.99,3
+Tey How,Rivera,2130 Washington Street,Mountlake Terrace,WA,98043,2020-05-16,316,Anvil,16.2,8
+Mace Windu,Greene,9572 9th Street,Windsor,IL,61957,2020-05-16,310,Scraper,7.99,8
+Mace Windu,Greene,9572 9th Street,Windsor,IL,61957,2020-05-16,304,Bolt,1.0,3
+Mace Windu,Greene,9572 9th Street,Windsor,IL,61957,2020-05-16,316,Anvil,16.2,3
+Mace Windu,Greene,9572 9th Street,Windsor,IL,61957,2020-05-16,319,Paint,19.99,8
+Lieutenant Mitaka,Oneill,7853 Devonshire Drive,Minneapolis,MN,55403,2020-05-16,312,Plane,10.99,8
+Lieutenant Mitaka,Oneill,7853 Devonshire Drive,Minneapolis,MN,55403,2020-05-16,324,Wire,37.0,3
+Lieutenant Mitaka,Oneill,7853 Devonshire Drive,Minneapolis,MN,55403,2020-05-16,308,Screwdriver,3.0,3
+Lieutenant Mitaka,Oneill,7853 Devonshire Drive,Minneapolis,MN,55403,2020-05-16,327,Ladder,80.0,8
+Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,2020-05-16,322,Monkeywrench,29.95,8
+Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,2020-05-16,315,Pliers,15.99,3
+Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,2020-05-16,325,Toolbox,50.0,3
+Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,2020-05-16,328,Workbench,300.0,8
+Lama Su,Schmidt,1947 College Street,Higganum,CT,06441,2020-05-17,321,Axe,27.99,7
+Lama Su,Schmidt,1947 College Street,Higganum,CT,06441,2020-05-17,325,Toolbox,50.0,1
+Padme,Le,1031 Pheasant Run,Las Vegas,NV,89178,2020-05-17,310,Scraper,7.99,7
+Padme,Le,1031 Pheasant Run,Las Vegas,NV,89178,2020-05-17,311,Hammer,8.27,1
+Rey,Aguilar,8339 College Street,Wilmot,WI,53192,2020-05-18,300,Washer,0.1,5
+Rey,Aguilar,8339 College Street,Wilmot,WI,53192,2020-05-18,306,Clamp,2.99,3
+Rey,Aguilar,8339 College Street,Wilmot,WI,53192,2020-05-18,329,Chainsaw,499.99,1
+Padme,Benson,6999 Route 44,Napier,WV,26631,2020-05-18,320,Saw,20.99,5
+Padme,Benson,6999 Route 44,Napier,WV,26631,2020-05-18,325,Toolbox,50.0,3
+Padme,Benson,6999 Route 44,Napier,WV,26631,2020-05-18,306,Clamp,2.99,1
+Captain Antilles,Walters,4285 Pheasant Run,Haleiwa,HI,96712,2020-05-18,320,Saw,20.99,5
+Captain Antilles,Walters,4285 Pheasant Run,Haleiwa,HI,96712,2020-05-18,315,Pliers,15.99,3
+Captain Antilles,Walters,4285 Pheasant Run,Haleiwa,HI,96712,2020-05-18,328,Workbench,300.0,1
+Wedge,Gordon,2566 2nd Street,Miami,FL,33196,2020-05-19,301,Nail,0.25,6
+Wedge,Gordon,2566 2nd Street,Miami,FL,33196,2020-05-19,306,Clamp,2.99,4
+Wedge,Gordon,2566 2nd Street,Miami,FL,33196,2020-05-19,324,Wire,37.0,9
+Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,2020-05-19,300,Washer,0.1,6
+Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,2020-05-19,305,Bradawl,1.99,4
+Piett,Bass,8180 Main Street,Travelers Rest,SC,29690,2020-05-19,315,Pliers,15.99,9
+Rey,Oneill,8718 9th Street,Greenville,SC,29617,2020-05-19,306,Clamp,2.99,6
+Rey,Oneill,8718 9th Street,Greenville,SC,29617,2020-05-19,302,Nut,0.25,4
+Rey,Oneill,8718 9th Street,Greenville,SC,29617,2020-05-19,329,Chainsaw,499.99,9
+Fode/Beed,Miller,5786 Devon Road,Collins,GA,30421,2020-05-20,308,Screwdriver,3.0,6
+Tc-14,Curtis,4809 Jefferson Court,Hyden,KY,41749,2020-05-21,310,Scraper,7.99,7
+Plo Koon,Oneill,5437 5th Street,Cement,OK,73017,2020-05-22,302,Nut,0.25,7
+Plo Koon,Oneill,5437 5th Street,Cement,OK,73017,2020-05-22,312,Plane,10.99,8
+Plo Koon,Oneill,5437 5th Street,Cement,OK,73017,2020-05-22,306,Clamp,2.99,5
+Plo Koon,Oneill,5437 5th Street,Cement,OK,73017,2020-05-22,323,Hatchet,35.99,6
+Clone Commander Cody,Le,2287 Main Street,Byron,GA,31008,2020-05-22,307,Sandpaper,3.0,7
+Clone Commander Cody,Le,2287 Main Street,Byron,GA,31008,2020-05-22,309,Chisel,4.99,8
+Clone Commander Cody,Le,2287 Main Street,Byron,GA,31008,2020-05-22,305,Bradawl,1.99,5
+Clone Commander Cody,Le,2287 Main Street,Byron,GA,31008,2020-05-22,314,Mallet,12.0,6
+Rieekan,Jimenez,5165 5th Street,Rockbridge,OH,43149,2020-05-22,314,Mallet,12.0,7
+Rieekan,Jimenez,5165 5th Street,Rockbridge,OH,43149,2020-05-22,323,Hatchet,35.99,8
+Rieekan,Jimenez,5165 5th Street,Rockbridge,OH,43149,2020-05-22,329,Chainsaw,499.99,5
+Rieekan,Jimenez,5165 5th Street,Rockbridge,OH,43149,2020-05-22,320,Saw,20.99,6
+Shmi,Adams,4796 Lake Avenue,Atlanta,GA,30316,2020-05-22,324,Wire,37.0,7
+Shmi,Adams,4796 Lake Avenue,Atlanta,GA,30316,2020-05-22,311,Hammer,8.27,8
+Shmi,Adams,4796 Lake Avenue,Atlanta,GA,30316,2020-05-22,322,Monkeywrench,29.95,5
+Shmi,Adams,4796 Lake Avenue,Atlanta,GA,30316,2020-05-22,321,Axe,27.99,6
+Jira,Ingram,4992 Edgewood Road,Window Rock,AZ,86515,2020-05-23,300,Washer,0.1,5
+Jira,Ingram,4992 Edgewood Road,Window Rock,AZ,86515,2020-05-23,313,Wrench,11.0,9
+Jira,Ingram,4992 Edgewood Road,Window Rock,AZ,86515,2020-05-23,310,Scraper,7.99,5
+Senator Ask Aak,Zhang,8559 Route 1,South Wilmington,IL,60474,2020-05-23,311,Hammer,8.27,5
+Senator Ask Aak,Zhang,8559 Route 1,South Wilmington,IL,60474,2020-05-23,305,Bradawl,1.99,9
+Senator Ask Aak,Zhang,8559 Route 1,South Wilmington,IL,60474,2020-05-23,325,Toolbox,50.0,5
+Unkar Plutt,Todd,8877 College Street,Washington,DC,20551,2020-05-23,326,Drill,69.0,5
+Unkar Plutt,Todd,8877 College Street,Washington,DC,20551,2020-05-23,309,Chisel,4.99,9
+Unkar Plutt,Todd,8877 College Street,Washington,DC,20551,2020-05-23,301,Nail,0.25,5
+Jobal,Mitchell,1198 West Avenue,Falkner,MS,38629,2020-05-24,306,Clamp,2.99,7
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2020-05-25,324,Wire,37.0,7
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2020-05-25,313,Wrench,11.0,5
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2020-05-25,310,Scraper,7.99,6
+Sola,Mcbride,7761 Jackson Avenue,Lance Creek,WY,82222,2020-05-25,311,Hammer,8.27,7
+Sola,Mcbride,7761 Jackson Avenue,Lance Creek,WY,82222,2020-05-25,302,Nut,0.25,5
+Sola,Mcbride,7761 Jackson Avenue,Lance Creek,WY,82222,2020-05-25,324,Wire,37.0,6
+Lama Su,Garza,179 Franklin Court,Wingate,MD,21675,2020-05-25,311,Hammer,8.27,7
+Lama Su,Garza,179 Franklin Court,Wingate,MD,21675,2020-05-25,309,Chisel,4.99,5
+Lama Su,Garza,179 Franklin Court,Wingate,MD,21675,2020-05-25,319,Paint,19.99,6
+Beru,Gordon,5261 9th Street,Waipahu,HI,96797,2020-05-26,314,Mallet,12.0,3
+Beru,Gordon,5261 9th Street,Waipahu,HI,96797,2020-05-26,303,Screw,0.5,4
+Beru,Gordon,5261 9th Street,Waipahu,HI,96797,2020-05-26,312,Plane,10.99,5
+Beru,Gordon,5261 9th Street,Waipahu,HI,96797,2020-05-26,319,Paint,19.99,8
+Rey,Mcbride,9348 William Street,Custer,MI,49405,2020-05-26,327,Ladder,80.0,3
+Rey,Mcbride,9348 William Street,Custer,MI,49405,2020-05-26,316,Anvil,16.2,4
+Rey,Mcbride,9348 William Street,Custer,MI,49405,2020-05-26,302,Nut,0.25,5
+Rey,Mcbride,9348 William Street,Custer,MI,49405,2020-05-26,312,Plane,10.99,8
+Rey,Ingram,8895 Front Street South,North Matewan,WV,25688,2020-05-26,320,Saw,20.99,3
+Rey,Ingram,8895 Front Street South,North Matewan,WV,25688,2020-05-26,310,Scraper,7.99,4
+Rey,Ingram,8895 Front Street South,North Matewan,WV,25688,2020-05-26,322,Monkeywrench,29.95,5
+Rey,Ingram,8895 Front Street South,North Matewan,WV,25688,2020-05-26,307,Sandpaper,3.0,8
+Tey How,Gordon,5972 9th Street West,West Rutland,VT,05777,2020-05-26,317,Level,16.99,3
+Tey How,Gordon,5972 9th Street West,West Rutland,VT,05777,2020-05-26,325,Toolbox,50.0,4
+Tey How,Gordon,5972 9th Street West,West Rutland,VT,05777,2020-05-26,303,Screw,0.5,5
+Tey How,Gordon,5972 9th Street West,West Rutland,VT,05777,2020-05-26,326,Drill,69.0,8
+Plo Koon,Vincent,6199 Lake Avenue,Valley Ford,CA,94972,2020-05-27,308,Screwdriver,3.0,4
+Plo Koon,Vincent,6199 Lake Avenue,Valley Ford,CA,94972,2020-05-27,321,Axe,27.99,1
+Bala-Tik,Walker,8497 Washington Street,Greenwood,DE,19950,2020-05-27,311,Hammer,8.27,4
+Bala-Tik,Walker,8497 Washington Street,Greenwood,DE,19950,2020-05-27,318,Hacksaw,19.99,1
+Captain Antilles,Adams,8402 Lake Street,Washington,ME,04574,2020-05-28,323,Hatchet,35.99,3
+Captain Antilles,Adams,8402 Lake Street,Washington,ME,04574,2020-05-28,329,Chainsaw,499.99,6
+Captain Antilles,Adams,8402 Lake Street,Washington,ME,04574,2020-05-28,316,Anvil,16.2,4
+Captain Antilles,Adams,8402 Lake Street,Washington,ME,04574,2020-05-28,327,Ladder,80.0,7
+Dodonna,Ingram,5838 Route 1,Morris,OK,74445,2020-05-28,303,Screw,0.5,3
+Dodonna,Ingram,5838 Route 1,Morris,OK,74445,2020-05-28,312,Plane,10.99,6
+Dodonna,Ingram,5838 Route 1,Morris,OK,74445,2020-05-28,315,Pliers,15.99,4
+Dodonna,Ingram,5838 Route 1,Morris,OK,74445,2020-05-28,302,Nut,0.25,7
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2020-05-28,322,Monkeywrench,29.95,3
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2020-05-28,328,Workbench,300.0,6
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2020-05-28,310,Scraper,7.99,4
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2020-05-28,307,Sandpaper,3.0,7
+Clone Commander Cody,Francis,6510 Sycamore Street,West Stewartstown,NH,03597,2020-05-28,320,Saw,20.99,3
+Clone Commander Cody,Francis,6510 Sycamore Street,West Stewartstown,NH,03597,2020-05-28,319,Paint,19.99,6
+Clone Commander Cody,Francis,6510 Sycamore Street,West Stewartstown,NH,03597,2020-05-28,304,Bolt,1.0,4
+Clone Commander Cody,Francis,6510 Sycamore Street,West Stewartstown,NH,03597,2020-05-28,325,Toolbox,50.0,7
+Clone Commander Cody,Francis,6510 Sycamore Street,West Stewartstown,NH,03597,2020-05-29,318,Hacksaw,19.99,7
+Clone Commander Cody,Francis,6510 Sycamore Street,West Stewartstown,NH,03597,2020-05-29,304,Bolt,1.0,8
+Clone Commander Cody,Francis,6510 Sycamore Street,West Stewartstown,NH,03597,2020-05-29,315,Pliers,15.99,9
+Clone Commander Cody,Francis,6510 Sycamore Street,West Stewartstown,NH,03597,2020-05-29,321,Axe,27.99,3
+Obi-Wan,Mcbride,1037 Strawberry Lane,Kansas City,MO,64127,2020-05-29,320,Saw,20.99,7
+Obi-Wan,Mcbride,1037 Strawberry Lane,Kansas City,MO,64127,2020-05-29,311,Hammer,8.27,8
+Obi-Wan,Mcbride,1037 Strawberry Lane,Kansas City,MO,64127,2020-05-29,328,Workbench,300.0,9
+Obi-Wan,Mcbride,1037 Strawberry Lane,Kansas City,MO,64127,2020-05-29,319,Paint,19.99,3
+Bala-Tik,Elliott,9088 Valley Road,Bayport,MN,55003,2020-05-29,314,Mallet,12.0,7
+Bala-Tik,Elliott,9088 Valley Road,Bayport,MN,55003,2020-05-29,318,Hacksaw,19.99,8
+Bala-Tik,Elliott,9088 Valley Road,Bayport,MN,55003,2020-05-29,310,Scraper,7.99,9
+Bala-Tik,Elliott,9088 Valley Road,Bayport,MN,55003,2020-05-29,312,Plane,10.99,3
+Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,2020-05-29,318,Hacksaw,19.99,7
+Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,2020-05-29,317,Level,16.99,8
+Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,2020-05-29,308,Screwdriver,3.0,9
+Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,2020-05-29,310,Scraper,7.99,3
+Unkar Plutt,Woodward,5772 4th Street,Riverton,IA,51650,2020-05-30,321,Axe,27.99,7
+Unkar Plutt,Woodward,5772 4th Street,Riverton,IA,51650,2020-05-30,303,Screw,0.5,8
+Colonel Datoo,Doyle,1332 Brookside Drive,Leander,TX,78641,2020-05-30,329,Chainsaw,499.99,7
+Colonel Datoo,Doyle,1332 Brookside Drive,Leander,TX,78641,2020-05-30,300,Washer,0.1,8
+Shmi,Miller,2866 Jefferson Court,Shoreham,NY,11786,2020-05-31,303,Screw,0.5,6
