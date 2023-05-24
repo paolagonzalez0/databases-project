@@ -1,0 +1,74 @@
+first,last,addr,city,state,zip,date,prod_id,prod_desc,unit_price,qty
+Rieekan,Gordon,7641 Park Avenue,Fort Smith,AR,72916,2019-07-01,318,Hacksaw,19.99,8
+Rieekan,Gordon,7641 Park Avenue,Fort Smith,AR,72916,2019-07-01,311,Hammer,8.27,3
+On Medon,Curtis,4469 Valley Road,Caldwell,KS,67022,2019-07-01,327,Ladder,80.0,8
+On Medon,Curtis,4469 Valley Road,Caldwell,KS,67022,2019-07-01,318,Hacksaw,19.99,3
+Shmi,Hunt,9978 Sycamore Drive,Ensenada,PR,00647,2019-07-02,304,Bolt,1.0,3
+Rieekan,Wood,3440 Route 44,Roosevelt,TX,76874,2019-07-03,301,Nail,0.25,6
+Dodonna,Gordon,5477 Jefferson Court,Phoenix,AZ,85023,2019-07-04,301,Nail,0.25,3
+Jabba,Barker,5363 Walnut Street,Oklahoma City,OK,73102,2019-07-05,307,Sandpaper,3.0,8
+Jabba,Barker,5363 Walnut Street,Oklahoma City,OK,73102,2019-07-05,323,Hatchet,35.99,2
+C-3Po,Rivera,6661 Strawberry Lane,Granger,WY,82934,2019-07-05,324,Wire,37.0,8
+C-3Po,Rivera,6661 Strawberry Lane,Granger,WY,82934,2019-07-05,328,Workbench,300.0,2
+Lama Su,Vincent,2114 4th Street,Ivor,VA,23866,2019-07-06,316,Anvil,16.2,5
+Lama Su,Vincent,2114 4th Street,Ivor,VA,23866,2019-07-06,314,Mallet,12.0,4
+Orn Free Taa,Doyle,4493 Edgewood Road,Greenwood Lake,NY,10925,2019-07-06,313,Wrench,11.0,5
+Orn Free Taa,Doyle,4493 Edgewood Road,Greenwood Lake,NY,10925,2019-07-06,315,Pliers,15.99,4
+Nute Gunray,Jennings,9525 Route 1,East Orange,NJ,07018,2019-07-07,307,Sandpaper,3.0,8
+Nute Gunray,Jennings,9525 Route 1,East Orange,NJ,07018,2019-07-07,322,Monkeywrench,29.95,5
+Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,2019-07-07,308,Screwdriver,3.0,8
+Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,2019-07-07,317,Level,16.99,5
+Darth Maul,Rodriguez,4333 Front Street,Boothbay,ME,04537,2019-07-08,322,Monkeywrench,29.95,2
+Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,2019-07-09,314,Mallet,12.0,8
+Senator Ask Aak,Ingram,3141 Sycamore Drive,Wilson,LA,70789,2019-07-10,307,Sandpaper,3.0,7
+Rieekan,Chen,2668 College Street,Centreville,MS,39631,2019-07-11,300,Washer,0.1,3
+Rieekan,Chen,2668 College Street,Centreville,MS,39631,2019-07-11,308,Screwdriver,3.0,2
+Sun Rit,Mitchell,3010 Sycamore Drive,Los Angeles,CA,90048,2019-07-11,324,Wire,37.0,3
+Sun Rit,Mitchell,3010 Sycamore Drive,Los Angeles,CA,90048,2019-07-11,302,Nut,0.25,2
+Unkar Plutt,Doyle,7541 William Street,Cookeville,TN,38505,2019-07-12,311,Hammer,8.27,7
+Unkar Plutt,Doyle,7541 William Street,Cookeville,TN,38505,2019-07-12,300,Washer,0.1,4
+Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,2019-07-12,303,Screw,0.5,7
+Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,2019-07-12,302,Nut,0.25,4
+Plo Koon,Bass,7380 Heather Lane,Warner,NH,03278,2019-07-13,327,Ladder,80.0,4
+Sun Rit,Curtis,4443 Pheasant Run,Magnolia,MS,39652,2019-07-14,329,Chainsaw,499.99,9
+Sun Rit,Curtis,4443 Pheasant Run,Magnolia,MS,39652,2019-07-14,303,Screw,0.5,4
+Motti,Bass,2326 Brookside Drive,Seven Valleys,PA,17360,2019-07-14,313,Wrench,11.0,9
+Motti,Bass,2326 Brookside Drive,Seven Valleys,PA,17360,2019-07-14,314,Mallet,12.0,4
+Motti,Mcbride,6879 Pheasant Run,Windham,NH,03087,2019-07-15,324,Wire,37.0,9
+Senator Ask Aak,Adams,487 Front Street South,Mendota,VA,24270,2019-07-16,304,Bolt,1.0,7
+Senator Ask Aak,Adams,487 Front Street South,Mendota,VA,24270,2019-07-16,316,Anvil,16.2,3
+C-3Po,Jennings,2134 3rd Street,Broadview,MT,59015,2019-07-16,306,Clamp,2.99,7
+C-3Po,Jennings,2134 3rd Street,Broadview,MT,59015,2019-07-16,319,Paint,19.99,3
+Fode/Beed,Francis,9993 Inverness Drive,Conway,NC,27820,2019-07-17,308,Screwdriver,3.0,6
+Fode/Beed,Francis,9993 Inverness Drive,Conway,NC,27820,2019-07-17,322,Monkeywrench,29.95,5
+Biggs,Greene,1555 Valley Road,Kahului,HI,96732,2019-07-17,322,Monkeywrench,29.95,6
+Biggs,Greene,1555 Valley Road,Kahului,HI,96732,2019-07-17,319,Paint,19.99,5
+Rabe,Woodward,2517 Lake Avenue,Scranton,PA,18505,2019-07-18,327,Ladder,80.0,2
+Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,2019-07-19,315,Pliers,15.99,1
+Mace Windu,Burke,1863 Jackson Avenue,Washington,DC,20593,2019-07-19,327,Ladder,80.0,4
+Unkar Plutt,Woodward,5772 4th Street,Riverton,IA,51650,2019-07-19,313,Wrench,11.0,1
+Unkar Plutt,Woodward,5772 4th Street,Riverton,IA,51650,2019-07-19,310,Scraper,7.99,4
+Jobal,Benson,5151 Jackson Avenue,Peachland,NC,28133,2019-07-20,326,Drill,69.0,1
+Sun Rit,Barker,3044 William Street,Gold Beach,OR,97444,2019-07-21,307,Sandpaper,3.0,2
+Sun Rit,Barker,3044 William Street,Gold Beach,OR,97444,2019-07-21,317,Level,16.99,4
+Orn Free Taa,Zhang,6043 Strawberry Lane,Patterson,AR,72123,2019-07-21,301,Nail,0.25,2
+Orn Free Taa,Zhang,6043 Strawberry Lane,Patterson,AR,72123,2019-07-21,320,Saw,20.99,4
+Orn Free Taa,Mcbride,7694 9th Street,Monterey,TN,38574,2019-07-22,314,Mallet,12.0,7
+Orn Free Taa,Mcbride,7694 9th Street,Monterey,TN,38574,2019-07-22,303,Screw,0.5,5
+Piett,Ferguson,3652 Front Street,Talmage,UT,84073,2019-07-22,305,Bradawl,1.99,7
+Piett,Ferguson,3652 Front Street,Talmage,UT,84073,2019-07-22,308,Screwdriver,3.0,5
+Biggs,Greene,1555 Valley Road,Kahului,HI,96732,2019-07-23,319,Paint,19.99,8
+Colonel Datoo,Schmidt,8706 Devonshire Drive,Pleasant Hill,CA,94523,2019-07-24,329,Chainsaw,499.99,6
+Padme,Rivera,5882 Inverness Drive,Bard,NM,88411,2019-07-25,320,Saw,20.99,9
+Padme,Rivera,5882 Inverness Drive,Bard,NM,88411,2019-07-25,314,Mallet,12.0,1
+Colonel Datoo,Jennings,2331 Jackson Avenue,Brooklyn,MD,21225,2019-07-25,329,Chainsaw,499.99,9
+Colonel Datoo,Jennings,2331 Jackson Avenue,Brooklyn,MD,21225,2019-07-25,302,Nut,0.25,1
+Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,2019-07-26,328,Workbench,300.0,2
+Motti,Mcbride,6879 Pheasant Run,Windham,NH,03087,2019-07-27,310,Scraper,7.99,7
+Plo Koon,Oneill,5437 5th Street,Cement,OK,73017,2019-07-28,315,Pliers,15.99,1
+Plo Koon,Oneill,5437 5th Street,Cement,OK,73017,2019-07-28,300,Washer,0.1,2
+Obi-Wan,Thornton,2264 College Street,Terlton,OK,74081,2019-07-28,304,Bolt,1.0,1
+Obi-Wan,Thornton,2264 College Street,Terlton,OK,74081,2019-07-28,305,Bradawl,1.99,2
+Senator Ask Aak,Chen,2027 Pheasant Run,Wayne,NJ,07470,2019-07-29,305,Bradawl,1.99,9
+C-3Po,Walters,6134 Valley Road,Arnold,MD,21012,2019-07-30,303,Screw,0.5,3
+Unkar Plutt,Doyle,7541 William Street,Cookeville,TN,38505,2019-07-31,329,Chainsaw,499.99,8

@@ -1,0 +1,328 @@
+first,last,addr,city,state,zip,date,prod_id,prod_desc,unit_price,qty
+Bib Fortuna,Walker,6829 2nd Street,New York,NY,10177,2019-01-01,309,Chisel,4.99,6
+Unkar Plutt,Jennings,5295 4th Street South,Quinton,AL,35130,2019-01-02,307,Sandpaper,3.0,7
+Unkar Plutt,Jennings,5295 4th Street South,Quinton,AL,35130,2019-01-02,311,Hammer,8.27,8
+Unkar Plutt,Jennings,5295 4th Street South,Quinton,AL,35130,2019-01-02,327,Ladder,80.0,5
+Unkar Plutt,Jennings,5295 4th Street South,Quinton,AL,35130,2019-01-02,306,Clamp,2.99,5
+Dodonna,Garza,3639 Briarwood Court,Tarzan,TX,79783,2019-01-02,319,Paint,19.99,7
+Dodonna,Garza,3639 Briarwood Court,Tarzan,TX,79783,2019-01-02,322,Monkeywrench,29.95,8
+Dodonna,Garza,3639 Briarwood Court,Tarzan,TX,79783,2019-01-02,306,Clamp,2.99,5
+Dodonna,Garza,3639 Briarwood Court,Tarzan,TX,79783,2019-01-02,317,Level,16.99,5
+Rabe,Woodward,2517 Lake Avenue,Scranton,PA,18505,2019-01-02,313,Wrench,11.0,7
+Rabe,Woodward,2517 Lake Avenue,Scranton,PA,18505,2019-01-02,329,Chainsaw,499.99,8
+Rabe,Woodward,2517 Lake Avenue,Scranton,PA,18505,2019-01-02,308,Screwdriver,3.0,5
+Rabe,Woodward,2517 Lake Avenue,Scranton,PA,18505,2019-01-02,315,Pliers,15.99,5
+Plo Koon,Ferguson,3332 Prospect Street,Clyde,NY,14433,2019-01-02,309,Chisel,4.99,7
+Plo Koon,Ferguson,3332 Prospect Street,Clyde,NY,14433,2019-01-02,301,Nail,0.25,8
+Plo Koon,Ferguson,3332 Prospect Street,Clyde,NY,14433,2019-01-02,314,Mallet,12.0,5
+Plo Koon,Ferguson,3332 Prospect Street,Clyde,NY,14433,2019-01-02,325,Toolbox,50.0,5
+Motti,Hunt,1919 Smith Street,Hamden,CT,06514,2019-01-03,313,Wrench,11.0,8
+Motti,Hunt,1919 Smith Street,Hamden,CT,06514,2019-01-03,307,Sandpaper,3.0,7
+Motti,Hunt,1919 Smith Street,Hamden,CT,06514,2019-01-03,312,Plane,10.99,7
+Motti,Hunt,1919 Smith Street,Hamden,CT,06514,2019-01-03,324,Wire,37.0,1
+Motti,Hunt,1919 Smith Street,Hamden,CT,06514,2019-01-03,302,Nut,0.25,3
+Mace Windu,Woodward,5655 Jefferson Court,Milan,NM,87021,2019-01-03,301,Nail,0.25,8
+Mace Windu,Woodward,5655 Jefferson Court,Milan,NM,87021,2019-01-03,329,Chainsaw,499.99,7
+Mace Windu,Woodward,5655 Jefferson Court,Milan,NM,87021,2019-01-03,308,Screwdriver,3.0,7
+Mace Windu,Woodward,5655 Jefferson Court,Milan,NM,87021,2019-01-03,310,Scraper,7.99,1
+Mace Windu,Woodward,5655 Jefferson Court,Milan,NM,87021,2019-01-03,322,Monkeywrench,29.95,3
+Jabba,Barker,5363 Walnut Street,Oklahoma City,OK,73102,2019-01-03,308,Screwdriver,3.0,8
+Jabba,Barker,5363 Walnut Street,Oklahoma City,OK,73102,2019-01-03,304,Bolt,1.0,7
+Jabba,Barker,5363 Walnut Street,Oklahoma City,OK,73102,2019-01-03,310,Scraper,7.99,7
+Jabba,Barker,5363 Walnut Street,Oklahoma City,OK,73102,2019-01-03,319,Paint,19.99,1
+Jabba,Barker,5363 Walnut Street,Oklahoma City,OK,73102,2019-01-03,322,Monkeywrench,29.95,3
+Tey How,Benson,3306 Edgewood Road,Hallsboro,NC,28442,2019-01-03,309,Chisel,4.99,8
+Tey How,Benson,3306 Edgewood Road,Hallsboro,NC,28442,2019-01-03,306,Clamp,2.99,7
+Tey How,Benson,3306 Edgewood Road,Hallsboro,NC,28442,2019-01-03,305,Bradawl,1.99,7
+Tey How,Benson,3306 Edgewood Road,Hallsboro,NC,28442,2019-01-03,311,Hammer,8.27,1
+Tey How,Benson,3306 Edgewood Road,Hallsboro,NC,28442,2019-01-03,319,Paint,19.99,3
+Tc-14,Jimenez,9297 2nd Street,Saint Joseph,MO,64507,2019-01-03,307,Sandpaper,3.0,8
+Tc-14,Jimenez,9297 2nd Street,Saint Joseph,MO,64507,2019-01-03,325,Toolbox,50.0,7
+Tc-14,Jimenez,9297 2nd Street,Saint Joseph,MO,64507,2019-01-03,300,Washer,0.1,7
+Tc-14,Jimenez,9297 2nd Street,Saint Joseph,MO,64507,2019-01-03,319,Paint,19.99,1
+Tc-14,Jimenez,9297 2nd Street,Saint Joseph,MO,64507,2019-01-03,312,Plane,10.99,3
+Senator Ask Aak,Chen,2027 Pheasant Run,Wayne,NJ,07470,2019-01-04,311,Hammer,8.27,9
+Jabba,Oneill,9371 Walnut Street,Swampscott,MA,01907,2019-01-05,315,Pliers,15.99,9
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2019-01-06,325,Toolbox,50.0,4
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2019-01-06,303,Screw,0.5,4
+C-3Po,Vincent,1905 Edgewood Road,Dawson,IA,50066,2019-01-06,313,Wrench,11.0,4
+C-3Po,Vincent,1905 Edgewood Road,Dawson,IA,50066,2019-01-06,307,Sandpaper,3.0,4
+C-3Po,Walters,6134 Valley Road,Arnold,MD,21012,2019-01-07,309,Chisel,4.99,1
+C-3Po,Walters,6134 Valley Road,Arnold,MD,21012,2019-01-07,314,Mallet,12.0,9
+Plo Koon,Zhang,6999 Devon Road,Arminto,WY,82630,2019-01-07,311,Hammer,8.27,1
+Plo Koon,Zhang,6999 Devon Road,Arminto,WY,82630,2019-01-07,322,Monkeywrench,29.95,9
+On Medon,Curtis,4469 Valley Road,Caldwell,KS,67022,2019-01-08,313,Wrench,11.0,2
+On Medon,Curtis,4469 Valley Road,Caldwell,KS,67022,2019-01-08,300,Washer,0.1,2
+On Medon,Curtis,4469 Valley Road,Caldwell,KS,67022,2019-01-08,329,Chainsaw,499.99,8
+On Medon,Curtis,4469 Valley Road,Caldwell,KS,67022,2019-01-08,328,Workbench,300.0,5
+C-3Po,Le,4801 William Street,Ashley,ND,58413,2019-01-08,300,Washer,0.1,2
+C-3Po,Le,4801 William Street,Ashley,ND,58413,2019-01-08,307,Sandpaper,3.0,2
+C-3Po,Le,4801 William Street,Ashley,ND,58413,2019-01-08,318,Hacksaw,19.99,8
+C-3Po,Le,4801 William Street,Ashley,ND,58413,2019-01-08,314,Mallet,12.0,5
+On Medon,Mcdaniel,5813 Devon Road,Lyman,UT,84749,2019-01-08,305,Bradawl,1.99,2
+On Medon,Mcdaniel,5813 Devon Road,Lyman,UT,84749,2019-01-08,314,Mallet,12.0,2
+On Medon,Mcdaniel,5813 Devon Road,Lyman,UT,84749,2019-01-08,311,Hammer,8.27,8
+On Medon,Mcdaniel,5813 Devon Road,Lyman,UT,84749,2019-01-08,302,Nut,0.25,5
+Gold Leader,Walker,8859 Lake Avenue,Athens,AL,35613,2019-01-08,319,Paint,19.99,2
+Gold Leader,Walker,8859 Lake Avenue,Athens,AL,35613,2019-01-08,329,Chainsaw,499.99,2
+Gold Leader,Walker,8859 Lake Avenue,Athens,AL,35613,2019-01-08,313,Wrench,11.0,8
+Gold Leader,Walker,8859 Lake Avenue,Athens,AL,35613,2019-01-08,301,Nail,0.25,5
+Rabe,Aguilar,5950 4th Street,Wetumpka,AL,36092,2019-01-09,309,Chisel,4.99,5
+Rabe,Aguilar,5950 4th Street,Wetumpka,AL,36092,2019-01-09,303,Screw,0.5,2
+Rabe,Aguilar,5950 4th Street,Wetumpka,AL,36092,2019-01-09,316,Anvil,16.2,5
+Rieekan,Jimenez,5165 5th Street,Rockbridge,OH,43149,2019-01-09,307,Sandpaper,3.0,5
+Rieekan,Jimenez,5165 5th Street,Rockbridge,OH,43149,2019-01-09,302,Nut,0.25,2
+Rieekan,Jimenez,5165 5th Street,Rockbridge,OH,43149,2019-01-09,329,Chainsaw,499.99,5
+Lama Su,Jennings,1963 Old York,Walnut Cove,NC,27052,2019-01-09,327,Ladder,80.0,5
+Lama Su,Jennings,1963 Old York,Walnut Cove,NC,27052,2019-01-09,321,Axe,27.99,2
+Lama Su,Jennings,1963 Old York,Walnut Cove,NC,27052,2019-01-09,302,Nut,0.25,5
+Tc-14,Le,5541 Lake Avenue,Raleigh,NC,27608,2019-01-10,300,Washer,0.1,2
+Tc-14,Le,5541 Lake Avenue,Raleigh,NC,27608,2019-01-10,305,Bradawl,1.99,1
+Tc-14,Le,5541 Lake Avenue,Raleigh,NC,27608,2019-01-10,319,Paint,19.99,7
+Shmi,Thornton,7013 Beechwood Drive,Saint Johns,AZ,85936,2019-01-10,306,Clamp,2.99,2
+Shmi,Thornton,7013 Beechwood Drive,Saint Johns,AZ,85936,2019-01-10,329,Chainsaw,499.99,1
+Shmi,Thornton,7013 Beechwood Drive,Saint Johns,AZ,85936,2019-01-10,322,Monkeywrench,29.95,7
+Unkar Plutt,Walker,2416 Pheasant Run,Homer,NE,68030,2019-01-10,328,Workbench,300.0,2
+Unkar Plutt,Walker,2416 Pheasant Run,Homer,NE,68030,2019-01-10,320,Saw,20.99,1
+Unkar Plutt,Walker,2416 Pheasant Run,Homer,NE,68030,2019-01-10,329,Chainsaw,499.99,7
+Sola,Mcbride,7761 Jackson Avenue,Lance Creek,WY,82222,2019-01-11,309,Chisel,4.99,4
+Sola,Mcbride,7761 Jackson Avenue,Lance Creek,WY,82222,2019-01-11,304,Bolt,1.0,5
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2019-01-11,322,Monkeywrench,29.95,4
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2019-01-11,325,Toolbox,50.0,5
+Captain Antilles,Curtis,2327 Prospect Street,Miami,FL,33127,2019-01-12,308,Screwdriver,3.0,6
+Captain Antilles,Curtis,2327 Prospect Street,Miami,FL,33127,2019-01-12,324,Wire,37.0,1
+Captain Antilles,Curtis,2327 Prospect Street,Miami,FL,33127,2019-01-12,321,Axe,27.99,5
+Darth Maul,Bass,2864 West Avenue,Fort Hall,ID,83203,2019-01-12,302,Nut,0.25,6
+Darth Maul,Bass,2864 West Avenue,Fort Hall,ID,83203,2019-01-12,307,Sandpaper,3.0,1
+Darth Maul,Bass,2864 West Avenue,Fort Hall,ID,83203,2019-01-12,313,Wrench,11.0,5
+Captain Antilles,Mcdaniel,6326 Heather Lane,Ohatchee,AL,36271,2019-01-12,317,Level,16.99,6
+Captain Antilles,Mcdaniel,6326 Heather Lane,Ohatchee,AL,36271,2019-01-12,315,Pliers,15.99,1
+Captain Antilles,Mcdaniel,6326 Heather Lane,Ohatchee,AL,36271,2019-01-12,314,Mallet,12.0,5
+Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,2019-01-13,304,Bolt,1.0,3
+Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,2019-01-13,321,Axe,27.99,3
+Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,2019-01-13,311,Hammer,8.27,2
+Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,2019-01-13,322,Monkeywrench,29.95,8
+Dodonna,Walters,2281 2nd Street,Bridgeport,NJ,08014,2019-01-13,303,Screw,0.5,3
+Dodonna,Walters,2281 2nd Street,Bridgeport,NJ,08014,2019-01-13,327,Ladder,80.0,3
+Dodonna,Walters,2281 2nd Street,Bridgeport,NJ,08014,2019-01-13,326,Drill,69.0,2
+Dodonna,Walters,2281 2nd Street,Bridgeport,NJ,08014,2019-01-13,309,Chisel,4.99,8
+Orn Free Taa,Greene,1746 Route 44,Wiggins,CO,80654,2019-01-13,317,Level,16.99,3
+Orn Free Taa,Greene,1746 Route 44,Wiggins,CO,80654,2019-01-13,318,Hacksaw,19.99,3
+Orn Free Taa,Greene,1746 Route 44,Wiggins,CO,80654,2019-01-13,314,Mallet,12.0,2
+Orn Free Taa,Greene,1746 Route 44,Wiggins,CO,80654,2019-01-13,310,Scraper,7.99,8
+Tc-14,Walters,4957 Sycamore Street,Roann,IN,46974,2019-01-13,311,Hammer,8.27,3
+Tc-14,Walters,4957 Sycamore Street,Roann,IN,46974,2019-01-13,321,Axe,27.99,3
+Tc-14,Walters,4957 Sycamore Street,Roann,IN,46974,2019-01-13,314,Mallet,12.0,2
+Tc-14,Walters,4957 Sycamore Street,Roann,IN,46974,2019-01-13,312,Plane,10.99,8
+Rieekan,Gordon,7641 Park Avenue,Fort Smith,AR,72916,2019-01-14,311,Hammer,8.27,9
+Rieekan,Gordon,7641 Park Avenue,Fort Smith,AR,72916,2019-01-14,326,Drill,69.0,6
+Rieekan,Gordon,7641 Park Avenue,Fort Smith,AR,72916,2019-01-14,325,Toolbox,50.0,2
+Rieekan,Gordon,7641 Park Avenue,Fort Smith,AR,72916,2019-01-14,308,Screwdriver,3.0,3
+Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,2019-01-14,321,Axe,27.99,9
+Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,2019-01-14,308,Screwdriver,3.0,6
+Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,2019-01-14,324,Wire,37.0,2
+Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,2019-01-14,313,Wrench,11.0,3
+Piett,Ferguson,3652 Front Street,Talmage,UT,84073,2019-01-14,328,Workbench,300.0,9
+Piett,Ferguson,3652 Front Street,Talmage,UT,84073,2019-01-14,304,Bolt,1.0,6
+Piett,Ferguson,3652 Front Street,Talmage,UT,84073,2019-01-14,305,Bradawl,1.99,2
+Piett,Ferguson,3652 Front Street,Talmage,UT,84073,2019-01-14,311,Hammer,8.27,3
+Orn Free Taa,Woodward,7670 Madison Street,Terreton,ID,83450,2019-01-14,318,Hacksaw,19.99,9
+Orn Free Taa,Woodward,7670 Madison Street,Terreton,ID,83450,2019-01-14,314,Mallet,12.0,6
+Orn Free Taa,Woodward,7670 Madison Street,Terreton,ID,83450,2019-01-14,315,Pliers,15.99,2
+Orn Free Taa,Woodward,7670 Madison Street,Terreton,ID,83450,2019-01-14,326,Drill,69.0,3
+Unkar Plutt,Woodward,5772 4th Street,Riverton,IA,51650,2019-01-15,313,Wrench,11.0,4
+Unkar Plutt,Woodward,5772 4th Street,Riverton,IA,51650,2019-01-15,325,Toolbox,50.0,3
+Unkar Plutt,Woodward,5772 4th Street,Riverton,IA,51650,2019-01-15,309,Chisel,4.99,7
+Unkar Plutt,Woodward,5772 4th Street,Riverton,IA,51650,2019-01-15,321,Axe,27.99,8
+Unkar Plutt,Woodward,5772 4th Street,Riverton,IA,51650,2019-01-15,304,Bolt,1.0,9
+Shmi,Doyle,4288 Devon Road,Fort Lawn,SC,29714,2019-01-15,329,Chainsaw,499.99,4
+Shmi,Doyle,4288 Devon Road,Fort Lawn,SC,29714,2019-01-15,319,Paint,19.99,3
+Shmi,Doyle,4288 Devon Road,Fort Lawn,SC,29714,2019-01-15,318,Hacksaw,19.99,7
+Shmi,Doyle,4288 Devon Road,Fort Lawn,SC,29714,2019-01-15,316,Anvil,16.2,8
+Shmi,Doyle,4288 Devon Road,Fort Lawn,SC,29714,2019-01-15,307,Sandpaper,3.0,9
+Clone Commander Cody,Benson,8861 Lexington Court,Great Barrington,MA,01230,2019-01-15,327,Ladder,80.0,4
+Clone Commander Cody,Benson,8861 Lexington Court,Great Barrington,MA,01230,2019-01-15,316,Anvil,16.2,3
+Clone Commander Cody,Benson,8861 Lexington Court,Great Barrington,MA,01230,2019-01-15,314,Mallet,12.0,7
+Clone Commander Cody,Benson,8861 Lexington Court,Great Barrington,MA,01230,2019-01-15,303,Screw,0.5,8
+Clone Commander Cody,Benson,8861 Lexington Court,Great Barrington,MA,01230,2019-01-15,305,Bradawl,1.99,9
+On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,2019-01-15,302,Nut,0.25,4
+On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,2019-01-15,317,Level,16.99,3
+On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,2019-01-15,311,Hammer,8.27,7
+On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,2019-01-15,312,Plane,10.99,8
+On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,2019-01-15,313,Wrench,11.0,9
+Piett,Johnston,4152 Prospect Street,Beaver,WV,25813,2019-01-15,303,Screw,0.5,4
+Piett,Johnston,4152 Prospect Street,Beaver,WV,25813,2019-01-15,316,Anvil,16.2,3
+Piett,Johnston,4152 Prospect Street,Beaver,WV,25813,2019-01-15,318,Hacksaw,19.99,7
+Piett,Johnston,4152 Prospect Street,Beaver,WV,25813,2019-01-15,320,Saw,20.99,8
+Piett,Johnston,4152 Prospect Street,Beaver,WV,25813,2019-01-15,322,Monkeywrench,29.95,9
+Beru,Walters,2805 Main Street,Frederick,SD,57441,2019-01-16,316,Anvil,16.2,3
+Beru,Walters,2805 Main Street,Frederick,SD,57441,2019-01-16,310,Scraper,7.99,3
+Snap,Jimenez,4890 4th Street,Belgrade,MO,63622,2019-01-16,306,Clamp,2.99,3
+Snap,Jimenez,4890 4th Street,Belgrade,MO,63622,2019-01-16,316,Anvil,16.2,3
+Captain Antilles,Walker,8516 Pheasant Run,Washington,DC,20005,2019-01-17,309,Chisel,4.99,9
+Captain Antilles,Walker,8516 Pheasant Run,Washington,DC,20005,2019-01-17,319,Paint,19.99,7
+Captain Antilles,Walker,8516 Pheasant Run,Washington,DC,20005,2019-01-17,305,Bradawl,1.99,7
+Captain Antilles,Walker,8516 Pheasant Run,Washington,DC,20005,2019-01-17,329,Chainsaw,499.99,2
+Captain Antilles,Walker,8516 Pheasant Run,Washington,DC,20005,2019-01-17,316,Anvil,16.2,8
+Captain Antilles,Walters,4285 Pheasant Run,Haleiwa,HI,96712,2019-01-17,328,Workbench,300.0,9
+Captain Antilles,Walters,4285 Pheasant Run,Haleiwa,HI,96712,2019-01-17,320,Saw,20.99,7
+Captain Antilles,Walters,4285 Pheasant Run,Haleiwa,HI,96712,2019-01-17,326,Drill,69.0,7
+Captain Antilles,Walters,4285 Pheasant Run,Haleiwa,HI,96712,2019-01-17,316,Anvil,16.2,2
+Captain Antilles,Walters,4285 Pheasant Run,Haleiwa,HI,96712,2019-01-17,315,Pliers,15.99,8
+Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,2019-01-17,305,Bradawl,1.99,9
+Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,2019-01-17,313,Wrench,11.0,7
+Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,2019-01-17,328,Workbench,300.0,7
+Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,2019-01-17,317,Level,16.99,2
+Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,2019-01-17,327,Ladder,80.0,8
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2019-01-17,308,Screwdriver,3.0,9
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2019-01-17,307,Sandpaper,3.0,7
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2019-01-17,309,Chisel,4.99,7
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2019-01-17,324,Wire,37.0,2
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2019-01-17,326,Drill,69.0,8
+Tc-14,Jennings,4692 2nd Street,Wilmington,DE,19801,2019-01-17,314,Mallet,12.0,9
+Tc-14,Jennings,4692 2nd Street,Wilmington,DE,19801,2019-01-17,303,Screw,0.5,7
+Tc-14,Jennings,4692 2nd Street,Wilmington,DE,19801,2019-01-17,300,Washer,0.1,7
+Tc-14,Jennings,4692 2nd Street,Wilmington,DE,19801,2019-01-17,311,Hammer,8.27,2
+Tc-14,Jennings,4692 2nd Street,Wilmington,DE,19801,2019-01-17,306,Clamp,2.99,8
+Tc-14,Doyle,7533 Sycamore Drive,Kilbourne,LA,71253,2019-01-18,305,Bradawl,1.99,4
+Tc-14,Doyle,7533 Sycamore Drive,Kilbourne,LA,71253,2019-01-18,328,Workbench,300.0,5
+Tc-14,Doyle,7533 Sycamore Drive,Kilbourne,LA,71253,2019-01-18,325,Toolbox,50.0,4
+Tc-14,Doyle,7533 Sycamore Drive,Kilbourne,LA,71253,2019-01-18,316,Anvil,16.2,6
+Tc-14,Doyle,7533 Sycamore Drive,Kilbourne,LA,71253,2019-01-18,317,Level,16.99,9
+Padme,Doyle,7916 Brookside Drive,Arnegard,ND,58835,2019-01-18,328,Workbench,300.0,4
+Padme,Doyle,7916 Brookside Drive,Arnegard,ND,58835,2019-01-18,301,Nail,0.25,5
+Padme,Doyle,7916 Brookside Drive,Arnegard,ND,58835,2019-01-18,318,Hacksaw,19.99,4
+Padme,Doyle,7916 Brookside Drive,Arnegard,ND,58835,2019-01-18,323,Hatchet,35.99,6
+Padme,Doyle,7916 Brookside Drive,Arnegard,ND,58835,2019-01-18,315,Pliers,15.99,9
+Beru,Elliott,8794 Old York Road,Alderson,WV,24910,2019-01-18,318,Hacksaw,19.99,4
+Beru,Elliott,8794 Old York Road,Alderson,WV,24910,2019-01-18,302,Nut,0.25,5
+Beru,Elliott,8794 Old York Road,Alderson,WV,24910,2019-01-18,321,Axe,27.99,4
+Beru,Elliott,8794 Old York Road,Alderson,WV,24910,2019-01-18,325,Toolbox,50.0,6
+Beru,Elliott,8794 Old York Road,Alderson,WV,24910,2019-01-18,304,Bolt,1.0,9
+Tey How,Gordon,5972 9th Street West,West Rutland,VT,05777,2019-01-18,309,Chisel,4.99,4
+Tey How,Gordon,5972 9th Street West,West Rutland,VT,05777,2019-01-18,325,Toolbox,50.0,5
+Tey How,Gordon,5972 9th Street West,West Rutland,VT,05777,2019-01-18,310,Scraper,7.99,4
+Tey How,Gordon,5972 9th Street West,West Rutland,VT,05777,2019-01-18,311,Hammer,8.27,6
+Tey How,Gordon,5972 9th Street West,West Rutland,VT,05777,2019-01-18,312,Plane,10.99,9
+On Medon,Curtis,2401 Edgewood Road,Baton Rouge,LA,70818,2019-01-18,322,Monkeywrench,29.95,4
+On Medon,Curtis,2401 Edgewood Road,Baton Rouge,LA,70818,2019-01-18,311,Hammer,8.27,5
+On Medon,Curtis,2401 Edgewood Road,Baton Rouge,LA,70818,2019-01-18,312,Plane,10.99,4
+On Medon,Curtis,2401 Edgewood Road,Baton Rouge,LA,70818,2019-01-18,324,Wire,37.0,6
+On Medon,Curtis,2401 Edgewood Road,Baton Rouge,LA,70818,2019-01-18,303,Screw,0.5,9
+C-3Po,Pollard,3934 Main Street,Manhattan,KS,66503,2019-01-19,326,Drill,69.0,7
+Motti,Jennings,5447 4th Street,Cascade,MD,21719,2019-01-20,317,Level,16.99,8
+Motti,Jennings,5447 4th Street,Cascade,MD,21719,2019-01-20,310,Scraper,7.99,7
+Motti,Jennings,5447 4th Street,Cascade,MD,21719,2019-01-20,319,Paint,19.99,5
+Motti,Jennings,5447 4th Street,Cascade,MD,21719,2019-01-20,309,Chisel,4.99,7
+Shmi,Gordon,9637 Heather Lane,Cable,WI,54821,2019-01-20,317,Level,16.99,8
+Shmi,Gordon,9637 Heather Lane,Cable,WI,54821,2019-01-20,325,Toolbox,50.0,7
+Shmi,Gordon,9637 Heather Lane,Cable,WI,54821,2019-01-20,302,Nut,0.25,5
+Shmi,Gordon,9637 Heather Lane,Cable,WI,54821,2019-01-20,328,Workbench,300.0,7
+Rey,Alvarez,3112 Madison Street,Palmer,MA,01069,2019-01-20,305,Bradawl,1.99,8
+Rey,Alvarez,3112 Madison Street,Palmer,MA,01069,2019-01-20,319,Paint,19.99,7
+Rey,Alvarez,3112 Madison Street,Palmer,MA,01069,2019-01-20,308,Screwdriver,3.0,5
+Rey,Alvarez,3112 Madison Street,Palmer,MA,01069,2019-01-20,316,Anvil,16.2,7
+Captain Antilles,Mcdaniel,6326 Heather Lane,Ohatchee,AL,36271,2019-01-20,322,Monkeywrench,29.95,8
+Captain Antilles,Mcdaniel,6326 Heather Lane,Ohatchee,AL,36271,2019-01-20,320,Saw,20.99,7
+Captain Antilles,Mcdaniel,6326 Heather Lane,Ohatchee,AL,36271,2019-01-20,312,Plane,10.99,5
+Captain Antilles,Mcdaniel,6326 Heather Lane,Ohatchee,AL,36271,2019-01-20,317,Level,16.99,7
+Bib Fortuna,Zhang,9177 West Avenue,Belen,NM,87002,2019-01-21,326,Drill,69.0,7
+Bib Fortuna,Zhang,9177 West Avenue,Belen,NM,87002,2019-01-21,300,Washer,0.1,6
+Bib Fortuna,Zhang,9177 West Avenue,Belen,NM,87002,2019-01-21,315,Pliers,15.99,3
+Bib Fortuna,Zhang,9177 West Avenue,Belen,NM,87002,2019-01-21,313,Wrench,11.0,2
+Rieekan,Wood,3440 Route 44,Roosevelt,TX,76874,2019-01-21,315,Pliers,15.99,7
+Rieekan,Wood,3440 Route 44,Roosevelt,TX,76874,2019-01-21,305,Bradawl,1.99,6
+Rieekan,Wood,3440 Route 44,Roosevelt,TX,76874,2019-01-21,307,Sandpaper,3.0,3
+Rieekan,Wood,3440 Route 44,Roosevelt,TX,76874,2019-01-21,311,Hammer,8.27,2
+Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,2019-01-21,313,Wrench,11.0,7
+Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,2019-01-21,326,Drill,69.0,6
+Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,2019-01-21,317,Level,16.99,3
+Tey How,Barker,6169 Beechwood Drive,Ponce,PR,00717,2019-01-21,300,Washer,0.1,2
+Biggs,Wood,7848 9th Street West,Quanah,TX,79252,2019-01-21,300,Washer,0.1,7
+Biggs,Wood,7848 9th Street West,Quanah,TX,79252,2019-01-21,314,Mallet,12.0,6
+Biggs,Wood,7848 9th Street West,Quanah,TX,79252,2019-01-21,301,Nail,0.25,3
+Biggs,Wood,7848 9th Street West,Quanah,TX,79252,2019-01-21,319,Paint,19.99,2
+Sun Rit,Curtis,4443 Pheasant Run,Magnolia,MS,39652,2019-01-22,307,Sandpaper,3.0,3
+Sun Rit,Curtis,4443 Pheasant Run,Magnolia,MS,39652,2019-01-22,315,Pliers,15.99,1
+Plo Koon,Bass,7380 Heather Lane,Warner,NH,03278,2019-01-22,308,Screwdriver,3.0,3
+Plo Koon,Bass,7380 Heather Lane,Warner,NH,03278,2019-01-22,305,Bradawl,1.99,1
+Colonel Datoo,Johnston,7994 West Avenue,Richmond,VA,23226,2019-01-23,310,Scraper,7.99,9
+Plo Koon,Zhang,6999 Devon Road,Arminto,WY,82630,2019-01-24,323,Hatchet,35.99,2
+Darth Maul,Gordon,3869 Franklin Court,Harbeson,DE,19951,2019-01-25,322,Monkeywrench,29.95,9
+Darth Maul,Gordon,3869 Franklin Court,Harbeson,DE,19951,2019-01-25,304,Bolt,1.0,6
+Darth Maul,Gordon,3869 Franklin Court,Harbeson,DE,19951,2019-01-25,324,Wire,37.0,6
+Darth Maul,Gordon,3869 Franklin Court,Harbeson,DE,19951,2019-01-25,329,Chainsaw,499.99,2
+Plo Koon,Elliott,2172 Park Avenue,Westhampton Beach,NY,11978,2019-01-25,320,Saw,20.99,9
+Plo Koon,Elliott,2172 Park Avenue,Westhampton Beach,NY,11978,2019-01-25,322,Monkeywrench,29.95,6
+Plo Koon,Elliott,2172 Park Avenue,Westhampton Beach,NY,11978,2019-01-25,313,Wrench,11.0,6
+Plo Koon,Elliott,2172 Park Avenue,Westhampton Beach,NY,11978,2019-01-25,323,Hatchet,35.99,2
+Shmi,Hunt,9978 Sycamore Drive,Ensenada,PR,00647,2019-01-25,323,Hatchet,35.99,9
+Shmi,Hunt,9978 Sycamore Drive,Ensenada,PR,00647,2019-01-25,324,Wire,37.0,6
+Shmi,Hunt,9978 Sycamore Drive,Ensenada,PR,00647,2019-01-25,316,Anvil,16.2,6
+Shmi,Hunt,9978 Sycamore Drive,Ensenada,PR,00647,2019-01-25,317,Level,16.99,2
+Tc-14,Hunt,4206 Canterbury Drive,Viroqua,WI,54665,2019-01-25,316,Anvil,16.2,9
+Tc-14,Hunt,4206 Canterbury Drive,Viroqua,WI,54665,2019-01-25,311,Hammer,8.27,6
+Tc-14,Hunt,4206 Canterbury Drive,Viroqua,WI,54665,2019-01-25,304,Bolt,1.0,6
+Tc-14,Hunt,4206 Canterbury Drive,Viroqua,WI,54665,2019-01-25,312,Plane,10.99,2
+Rey,Oneill,8718 9th Street,Greenville,SC,29617,2019-01-26,315,Pliers,15.99,1
+Sola,Oneill,2452 Lake Street,Reedy,WV,25270,2019-01-27,315,Pliers,15.99,7
+Sola,Oneill,2452 Lake Street,Reedy,WV,25270,2019-01-27,317,Level,16.99,2
+Sola,Oneill,2452 Lake Street,Reedy,WV,25270,2019-01-27,304,Bolt,1.0,8
+Gold Leader,Mitchell,8402 Lake Avenue,Black Eagle,MT,59414,2019-01-27,314,Mallet,12.0,7
+Gold Leader,Mitchell,8402 Lake Avenue,Black Eagle,MT,59414,2019-01-27,315,Pliers,15.99,2
+Gold Leader,Mitchell,8402 Lake Avenue,Black Eagle,MT,59414,2019-01-27,319,Paint,19.99,8
+Nute Gunray,Gordon,6397 Washington Street,Moscow,ID,83843,2019-01-27,323,Hatchet,35.99,7
+Nute Gunray,Gordon,6397 Washington Street,Moscow,ID,83843,2019-01-27,315,Pliers,15.99,2
+Nute Gunray,Gordon,6397 Washington Street,Moscow,ID,83843,2019-01-27,326,Drill,69.0,8
+Tc-14,Walters,4957 Sycamore Street,Roann,IN,46974,2019-01-28,317,Level,16.99,3
+Tc-14,Walters,4957 Sycamore Street,Roann,IN,46974,2019-01-28,311,Hammer,8.27,9
+Tc-14,Walters,4957 Sycamore Street,Roann,IN,46974,2019-01-28,321,Axe,27.99,2
+Tc-14,Walters,4957 Sycamore Street,Roann,IN,46974,2019-01-28,303,Screw,0.5,5
+Captain Antilles,Adams,8402 Lake Street,Washington,ME,04574,2019-01-28,325,Toolbox,50.0,3
+Captain Antilles,Adams,8402 Lake Street,Washington,ME,04574,2019-01-28,324,Wire,37.0,9
+Captain Antilles,Adams,8402 Lake Street,Washington,ME,04574,2019-01-28,319,Paint,19.99,2
+Captain Antilles,Adams,8402 Lake Street,Washington,ME,04574,2019-01-28,300,Washer,0.1,5
+Captain Antilles,Garza,1372 9th Street,Lane,SD,57358,2019-01-28,306,Clamp,2.99,3
+Captain Antilles,Garza,1372 9th Street,Lane,SD,57358,2019-01-28,307,Sandpaper,3.0,9
+Captain Antilles,Garza,1372 9th Street,Lane,SD,57358,2019-01-28,309,Chisel,4.99,2
+Captain Antilles,Garza,1372 9th Street,Lane,SD,57358,2019-01-28,323,Hatchet,35.99,5
+Rieekan,Bass,8798 Jackson Avenue,Cotulla,TX,78014,2019-01-28,313,Wrench,11.0,3
+Rieekan,Bass,8798 Jackson Avenue,Cotulla,TX,78014,2019-01-28,324,Wire,37.0,9
+Rieekan,Bass,8798 Jackson Avenue,Cotulla,TX,78014,2019-01-28,311,Hammer,8.27,2
+Rieekan,Bass,8798 Jackson Avenue,Cotulla,TX,78014,2019-01-28,327,Ladder,80.0,5
+On Medon,Lara,7845 Heather Lane,Magna,UT,84044,2019-01-29,303,Screw,0.5,8
+On Medon,Lara,7845 Heather Lane,Magna,UT,84044,2019-01-29,323,Hatchet,35.99,5
+On Medon,Lara,7845 Heather Lane,Magna,UT,84044,2019-01-29,327,Ladder,80.0,1
+On Medon,Lara,7845 Heather Lane,Magna,UT,84044,2019-01-29,319,Paint,19.99,4
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2019-01-29,302,Nut,0.25,8
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2019-01-29,311,Hammer,8.27,5
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2019-01-29,321,Axe,27.99,1
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2019-01-29,326,Drill,69.0,4
+Rey,Mcbride,9348 William Street,Custer,MI,49405,2019-01-29,305,Bradawl,1.99,8
+Rey,Mcbride,9348 William Street,Custer,MI,49405,2019-01-29,320,Saw,20.99,5
+Rey,Mcbride,9348 William Street,Custer,MI,49405,2019-01-29,307,Sandpaper,3.0,1
+Rey,Mcbride,9348 William Street,Custer,MI,49405,2019-01-29,317,Level,16.99,4
+Wedge,Gordon,2566 2nd Street,Miami,FL,33196,2019-01-29,320,Saw,20.99,8
+Wedge,Gordon,2566 2nd Street,Miami,FL,33196,2019-01-29,311,Hammer,8.27,5
+Wedge,Gordon,2566 2nd Street,Miami,FL,33196,2019-01-29,316,Anvil,16.2,1
+Wedge,Gordon,2566 2nd Street,Miami,FL,33196,2019-01-29,323,Hatchet,35.99,4
+Sola,Francis,8313 Main Street,Central Falls,RI,02863,2019-01-30,326,Drill,69.0,7
+Sola,Francis,8313 Main Street,Central Falls,RI,02863,2019-01-30,308,Screwdriver,3.0,6
+Sola,Francis,8313 Main Street,Central Falls,RI,02863,2019-01-30,325,Toolbox,50.0,3
+Sola,Francis,8313 Main Street,Central Falls,RI,02863,2019-01-30,302,Nut,0.25,4
+Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,2019-01-30,317,Level,16.99,7
+Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,2019-01-30,326,Drill,69.0,6
+Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,2019-01-30,302,Nut,0.25,3
+Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,2019-01-30,301,Nail,0.25,4
+Jabba,Jennings,2985 Washington Street,Columbus,OH,43210,2019-01-30,307,Sandpaper,3.0,7
+Jabba,Jennings,2985 Washington Street,Columbus,OH,43210,2019-01-30,326,Drill,69.0,6
+Jabba,Jennings,2985 Washington Street,Columbus,OH,43210,2019-01-30,309,Chisel,4.99,3
+Jabba,Jennings,2985 Washington Street,Columbus,OH,43210,2019-01-30,312,Plane,10.99,4
+Jira,Adams,7763 Main Street,Leesburg,IN,46538,2019-01-30,323,Hatchet,35.99,7
+Jira,Adams,7763 Main Street,Leesburg,IN,46538,2019-01-30,315,Pliers,15.99,6
+Jira,Adams,7763 Main Street,Leesburg,IN,46538,2019-01-30,314,Mallet,12.0,3
+Jira,Adams,7763 Main Street,Leesburg,IN,46538,2019-01-30,317,Level,16.99,4
+Bala-Tik,Elliott,9088 Valley Road,Bayport,MN,55003,2019-01-31,308,Screwdriver,3.0,6
+Bala-Tik,Elliott,9088 Valley Road,Bayport,MN,55003,2019-01-31,319,Paint,19.99,5
+Rieekan,Chen,2668 College Street,Centreville,MS,39631,2019-01-31,329,Chainsaw,499.99,6
+Rieekan,Chen,2668 College Street,Centreville,MS,39631,2019-01-31,322,Monkeywrench,29.95,5

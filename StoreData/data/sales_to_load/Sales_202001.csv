@@ -1,0 +1,117 @@
+first,last,addr,city,state,zip,date,prod_id,prod_desc,unit_price,qty
+Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,2020-01-01,315,Pliers,15.99,7
+Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,2020-01-01,301,Nail,0.25,2
+Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,2020-01-01,320,Saw,20.99,1
+Tc-14,Barker,5853 Jefferson Court,North Waterboro,ME,04061,2020-01-01,315,Pliers,15.99,7
+Tc-14,Barker,5853 Jefferson Court,North Waterboro,ME,04061,2020-01-01,327,Ladder,80.0,2
+Tc-14,Barker,5853 Jefferson Court,North Waterboro,ME,04061,2020-01-01,308,Screwdriver,3.0,1
+Sola,Johnston,2757 Inverness Drive,Parmelee,SD,57566,2020-01-01,322,Monkeywrench,29.95,7
+Sola,Johnston,2757 Inverness Drive,Parmelee,SD,57566,2020-01-01,309,Chisel,4.99,2
+Sola,Johnston,2757 Inverness Drive,Parmelee,SD,57566,2020-01-01,327,Ladder,80.0,1
+Captain Antilles,Johnston,5491 Strawberry Lane,Pittsburgh,PA,15234,2020-01-02,323,Hatchet,35.99,9
+Captain Antilles,Johnston,5491 Strawberry Lane,Pittsburgh,PA,15234,2020-01-02,322,Monkeywrench,29.95,6
+Captain Antilles,Johnston,5491 Strawberry Lane,Pittsburgh,PA,15234,2020-01-02,311,Hammer,8.27,2
+Shmi,Aguilar,7723 Smith Street,Pelion,SC,29123,2020-01-02,323,Hatchet,35.99,9
+Shmi,Aguilar,7723 Smith Street,Pelion,SC,29123,2020-01-02,310,Scraper,7.99,6
+Shmi,Aguilar,7723 Smith Street,Pelion,SC,29123,2020-01-02,319,Paint,19.99,2
+Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,2020-01-02,309,Chisel,4.99,9
+Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,2020-01-02,325,Toolbox,50.0,6
+Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,2020-01-02,315,Pliers,15.99,2
+Obi-Wan,Todd,3002 Jackson Avenue,Margie,MN,56658,2020-01-03,313,Wrench,11.0,4
+Obi-Wan,Todd,3002 Jackson Avenue,Margie,MN,56658,2020-01-03,317,Level,16.99,8
+Snap,Pollard,4987 Sycamore Drive,Mc Louth,KS,66054,2020-01-03,316,Anvil,16.2,4
+Snap,Pollard,4987 Sycamore Drive,Mc Louth,KS,66054,2020-01-03,305,Bradawl,1.99,8
+Rabe,Vincent,3541 3rd Street,Salol,MN,56756,2020-01-04,310,Scraper,7.99,6
+Unkar Plutt,Schmidt,9546 Brookside Drive,Chippewa Bay,NY,13623,2020-01-05,309,Chisel,4.99,1
+Unkar Plutt,Schmidt,9546 Brookside Drive,Chippewa Bay,NY,13623,2020-01-05,302,Nut,0.25,8
+Unkar Plutt,Schmidt,9546 Brookside Drive,Chippewa Bay,NY,13623,2020-01-05,329,Chainsaw,499.99,6
+Lieutenant Mitaka,Oneill,1110 2nd Street,Kenyon,RI,02836,2020-01-05,315,Pliers,15.99,1
+Lieutenant Mitaka,Oneill,1110 2nd Street,Kenyon,RI,02836,2020-01-05,309,Chisel,4.99,8
+Lieutenant Mitaka,Oneill,1110 2nd Street,Kenyon,RI,02836,2020-01-05,321,Axe,27.99,6
+Nute Gunray,Gordon,6397 Washington Street,Moscow,ID,83843,2020-01-05,310,Scraper,7.99,1
+Nute Gunray,Gordon,6397 Washington Street,Moscow,ID,83843,2020-01-05,303,Screw,0.5,8
+Nute Gunray,Gordon,6397 Washington Street,Moscow,ID,83843,2020-01-05,307,Sandpaper,3.0,6
+Jabba,Jimenez,7728 Route 1,Anchorage,AK,99503,2020-01-06,309,Chisel,4.99,5
+Jabba,Jimenez,7728 Route 1,Anchorage,AK,99503,2020-01-06,316,Anvil,16.2,1
+Jabba,Jimenez,7728 Route 1,Anchorage,AK,99503,2020-01-06,326,Drill,69.0,3
+Padme,Todd,9619 Beechwood Drive,Stratford,CT,06615,2020-01-06,308,Screwdriver,3.0,5
+Padme,Todd,9619 Beechwood Drive,Stratford,CT,06615,2020-01-06,310,Scraper,7.99,1
+Padme,Todd,9619 Beechwood Drive,Stratford,CT,06615,2020-01-06,329,Chainsaw,499.99,3
+Motti,Adams,8896 Pheasant Run,Ranson,WV,25438,2020-01-06,324,Wire,37.0,5
+Motti,Adams,8896 Pheasant Run,Ranson,WV,25438,2020-01-06,320,Saw,20.99,1
+Motti,Adams,8896 Pheasant Run,Ranson,WV,25438,2020-01-06,304,Bolt,1.0,3
+Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,2020-01-07,324,Wire,37.0,4
+Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,2020-01-07,326,Drill,69.0,9
+Tey How,Jennings,3672 Inverness Drive,Fort Washakie,WY,82514,2020-01-07,320,Saw,20.99,1
+Sola,Francis,8313 Main Street,Central Falls,RI,02863,2020-01-07,311,Hammer,8.27,4
+Sola,Francis,8313 Main Street,Central Falls,RI,02863,2020-01-07,308,Screwdriver,3.0,9
+Sola,Francis,8313 Main Street,Central Falls,RI,02863,2020-01-07,306,Clamp,2.99,1
+Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,2020-01-07,321,Axe,27.99,4
+Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,2020-01-07,312,Plane,10.99,9
+Captain Antilles,Jimenez,1677 2nd Street East,Washington,DC,20551,2020-01-07,319,Paint,19.99,1
+Sola,Oneill,2452 Lake Street,Reedy,WV,25270,2020-01-08,310,Scraper,7.99,7
+Jobal,Benson,5151 Jackson Avenue,Peachland,NC,28133,2020-01-09,315,Pliers,15.99,5
+On Medon,Mcdaniel,5813 Devon Road,Lyman,UT,84749,2020-01-10,307,Sandpaper,3.0,9
+On Medon,Mcdaniel,5813 Devon Road,Lyman,UT,84749,2020-01-10,327,Ladder,80.0,9
+Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,2020-01-10,328,Workbench,300.0,9
+Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,2020-01-10,308,Screwdriver,3.0,9
+Bala-Tik,Schmidt,3353 Front Street,New Britain,CT,06053,2020-01-11,328,Workbench,300.0,2
+Bala-Tik,Schmidt,3353 Front Street,New Britain,CT,06053,2020-01-11,319,Paint,19.99,7
+Lama Su,Rodriguez,2755 Devon Road,Fort Myers,FL,33907,2020-01-11,325,Toolbox,50.0,2
+Lama Su,Rodriguez,2755 Devon Road,Fort Myers,FL,33907,2020-01-11,309,Chisel,4.99,7
+Bala-Tik,Walker,8497 Washington Street,Greenwood,DE,19950,2020-01-12,311,Hammer,8.27,5
+Shmi,Thornton,7013 Beechwood Drive,Saint Johns,AZ,85936,2020-01-13,315,Pliers,15.99,4
+Shmi,Thornton,7013 Beechwood Drive,Saint Johns,AZ,85936,2020-01-13,320,Saw,20.99,1
+Lieutenant Mitaka,Oneill,1110 2nd Street,Kenyon,RI,02836,2020-01-13,303,Screw,0.5,4
+Lieutenant Mitaka,Oneill,1110 2nd Street,Kenyon,RI,02836,2020-01-13,317,Level,16.99,1
+Piett,Mcbride,4982 Franklin Court,Boise,ID,83703,2020-01-14,329,Chainsaw,499.99,8
+Lieutenant Mitaka,Schmidt,5798 Williams Street,Bolivar,TN,38008,2020-01-15,325,Toolbox,50.0,1
+Orn Free Taa,Benson,6973 Park Avenue,Fairplay,CO,80440,2020-01-16,321,Axe,27.99,3
+Obi-Wan,Thornton,2264 College Street,Terlton,OK,74081,2020-01-17,328,Workbench,300.0,4
+Obi-Wan,Thornton,2264 College Street,Terlton,OK,74081,2020-01-17,301,Nail,0.25,3
+Darth Maul,Gordon,3869 Franklin Court,Harbeson,DE,19951,2020-01-17,305,Bradawl,1.99,4
+Darth Maul,Gordon,3869 Franklin Court,Harbeson,DE,19951,2020-01-17,311,Hammer,8.27,3
+Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,2020-01-18,325,Toolbox,50.0,5
+Jabba,Oneill,9371 Walnut Street,Swampscott,MA,01907,2020-01-19,305,Bradawl,1.99,3
+Jabba,Oneill,9371 Walnut Street,Swampscott,MA,01907,2020-01-19,303,Screw,0.5,1
+Motti,Jennings,5447 4th Street,Cascade,MD,21719,2020-01-19,324,Wire,37.0,3
+Motti,Jennings,5447 4th Street,Cascade,MD,21719,2020-01-19,328,Workbench,300.0,1
+Bib Fortuna,Elliott,5364 Heather Lane,Gig Harbor,WA,98335,2020-01-20,323,Hatchet,35.99,1
+Padme,Woodward,6663 Smith Street,Punta Santiago,PR,00741,2020-01-21,326,Drill,69.0,2
+Darth Maul,Vincent,2264 Main Street,Geneseo,IL,61254,2020-01-22,329,Chainsaw,499.99,1
+Sola,Johnston,2757 Inverness Drive,Parmelee,SD,57566,2020-01-23,326,Drill,69.0,7
+Jira,Walters,8240 Inverness Drive,Hindman,KY,41822,2020-01-24,318,Hacksaw,19.99,3
+Jira,Walters,8240 Inverness Drive,Hindman,KY,41822,2020-01-24,311,Hammer,8.27,1
+Obi-Wan,Chen,2756 Heather Lane,Belfast,TN,37019,2020-01-24,300,Washer,0.1,3
+Obi-Wan,Chen,2756 Heather Lane,Belfast,TN,37019,2020-01-24,313,Wrench,11.0,1
+Snap,Rivera,7148 Jackson Avenue,Albion,RI,02802,2020-01-25,319,Paint,19.99,9
+Snap,Rivera,7148 Jackson Avenue,Albion,RI,02802,2020-01-25,323,Hatchet,35.99,3
+Snap,Rivera,7148 Jackson Avenue,Albion,RI,02802,2020-01-25,308,Screwdriver,3.0,5
+Nute Gunray,Le,2553 Inverness Drive,South San Francisco,CA,94080,2020-01-25,315,Pliers,15.99,9
+Nute Gunray,Le,2553 Inverness Drive,South San Francisco,CA,94080,2020-01-25,323,Hatchet,35.99,3
+Nute Gunray,Le,2553 Inverness Drive,South San Francisco,CA,94080,2020-01-25,325,Toolbox,50.0,5
+Tey How,Benson,3306 Edgewood Road,Hallsboro,NC,28442,2020-01-25,303,Screw,0.5,9
+Tey How,Benson,3306 Edgewood Road,Hallsboro,NC,28442,2020-01-25,308,Screwdriver,3.0,3
+Tey How,Benson,3306 Edgewood Road,Hallsboro,NC,28442,2020-01-25,306,Clamp,2.99,5
+Shmi,Gordon,9637 Heather Lane,Cable,WI,54821,2020-01-26,322,Monkeywrench,29.95,9
+Bib Fortuna,Mitchell,8088 Lake Street,Collinston,UT,84306,2020-01-27,311,Hammer,8.27,9
+Bib Fortuna,Mitchell,8088 Lake Street,Collinston,UT,84306,2020-01-27,302,Nut,0.25,4
+Bib Fortuna,Mitchell,8088 Lake Street,Collinston,UT,84306,2020-01-27,329,Chainsaw,499.99,2
+Tc-14,Elliott,8425 Washington Street,Las Vegas,NV,89142,2020-01-27,302,Nut,0.25,9
+Tc-14,Elliott,8425 Washington Street,Las Vegas,NV,89142,2020-01-27,329,Chainsaw,499.99,4
+Tc-14,Elliott,8425 Washington Street,Las Vegas,NV,89142,2020-01-27,303,Screw,0.5,2
+Captain Antilles,Walters,4285 Pheasant Run,Haleiwa,HI,96712,2020-01-27,315,Pliers,15.99,9
+Captain Antilles,Walters,4285 Pheasant Run,Haleiwa,HI,96712,2020-01-27,320,Saw,20.99,4
+Captain Antilles,Walters,4285 Pheasant Run,Haleiwa,HI,96712,2020-01-27,309,Chisel,4.99,2
+Orn Free Taa,Woodward,7670 Madison Street,Terreton,ID,83450,2020-01-28,311,Hammer,8.27,2
+Jobal,Johnston,8751 Beechwood Drive,Slickville,PA,15684,2020-01-29,324,Wire,37.0,8
+Beru,Todd,7293 9th Street,Bountiful,UT,84010,2020-01-30,301,Nail,0.25,1
+Beru,Todd,7293 9th Street,Bountiful,UT,84010,2020-01-30,319,Paint,19.99,5
+Beru,Todd,7293 9th Street,Bountiful,UT,84010,2020-01-30,313,Wrench,11.0,3
+Fode/Beed,Vincent,8509 Route 44,Joseph,OR,97846,2020-01-30,314,Mallet,12.0,1
+Fode/Beed,Vincent,8509 Route 44,Joseph,OR,97846,2020-01-30,305,Bradawl,1.99,5
+Fode/Beed,Vincent,8509 Route 44,Joseph,OR,97846,2020-01-30,320,Saw,20.99,3
+Jabba,Barker,5363 Walnut Street,Oklahoma City,OK,73102,2020-01-30,329,Chainsaw,499.99,1
+Jabba,Barker,5363 Walnut Street,Oklahoma City,OK,73102,2020-01-30,324,Wire,37.0,5
+Jabba,Barker,5363 Walnut Street,Oklahoma City,OK,73102,2020-01-30,306,Clamp,2.99,3
+Beru,Miller,3490 Washington Street,Colorado Springs,CO,80922,2020-01-31,323,Hatchet,35.99,8

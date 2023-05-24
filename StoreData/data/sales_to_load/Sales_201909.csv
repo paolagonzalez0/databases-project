@@ -1,0 +1,61 @@
+first,last,addr,city,state,zip,date,prod_id,prod_desc,unit_price,qty
+Gold Leader,Todd,508 Magnolia Court,Memphis,TN,38119,2019-09-01,304,Bolt,1.0,2
+Senator Ask Aak,Mitchell,3854 Walnut Street,Modoc,IN,47358,2019-09-02,302,Nut,0.25,8
+Jobal,Johnston,8751 Beechwood Drive,Slickville,PA,15684,2019-09-03,306,Clamp,2.99,9
+Beru,Todd,7293 9th Street,Bountiful,UT,84010,2019-09-04,314,Mallet,12.0,1
+Jabba,Jennings,2985 Washington Street,Columbus,OH,43210,2019-09-05,327,Ladder,80.0,6
+Biggs,Zhang,9395 Lexington Court,Toulon,IL,61483,2019-09-06,313,Wrench,11.0,5
+Biggs,Zhang,9395 Lexington Court,Toulon,IL,61483,2019-09-06,304,Bolt,1.0,3
+Jango Fett,Woodward,3710 Magnolia Court,Greenville,RI,02828,2019-09-06,303,Screw,0.5,5
+Jango Fett,Woodward,3710 Magnolia Court,Greenville,RI,02828,2019-09-06,317,Level,16.99,3
+Fode/Beed,Adams,2420 Sycamore Street,Harper,OR,97906,2019-09-07,320,Saw,20.99,6
+Piett,Jimenez,8477 Prospect Street,Rumford,RI,02916,2019-09-08,322,Monkeywrench,29.95,4
+Unkar Plutt,Doyle,7541 William Street,Cookeville,TN,38505,2019-09-09,309,Chisel,4.99,9
+Unkar Plutt,Doyle,7541 William Street,Cookeville,TN,38505,2019-09-09,324,Wire,37.0,7
+Obi-Wan,Miller,9760 Edgewood Road,Veedersburg,IN,47987,2019-09-09,311,Hammer,8.27,9
+Obi-Wan,Miller,9760 Edgewood Road,Veedersburg,IN,47987,2019-09-09,303,Screw,0.5,7
+Clone Commander Cody,Benson,4836 Front Street,Spring Lake,NC,28390,2019-09-10,322,Monkeywrench,29.95,4
+Clone Commander Cody,Benson,4836 Front Street,Spring Lake,NC,28390,2019-09-10,317,Level,16.99,9
+Jabba,Jennings,2985 Washington Street,Columbus,OH,43210,2019-09-10,306,Clamp,2.99,4
+Jabba,Jennings,2985 Washington Street,Columbus,OH,43210,2019-09-10,313,Wrench,11.0,9
+Obi-Wan,Todd,3002 Jackson Avenue,Margie,MN,56658,2019-09-11,324,Wire,37.0,9
+C-3Po,Alvarez,3798 Park Avenue,Shepherd,MT,59079,2019-09-12,307,Sandpaper,3.0,4
+C-3Po,Alvarez,3798 Park Avenue,Shepherd,MT,59079,2019-09-12,308,Screwdriver,3.0,2
+Jabba,Barker,5363 Walnut Street,Oklahoma City,OK,73102,2019-09-12,303,Screw,0.5,4
+Jabba,Barker,5363 Walnut Street,Oklahoma City,OK,73102,2019-09-12,308,Screwdriver,3.0,2
+Plo Koon,Jimenez,6255 Williams Street,Accomac,VA,23301,2019-09-13,311,Hammer,8.27,8
+Rabe,Aguilar,5950 4th Street,Wetumpka,AL,36092,2019-09-14,303,Screw,0.5,8
+Rabe,Aguilar,5950 4th Street,Wetumpka,AL,36092,2019-09-14,307,Sandpaper,3.0,8
+C-3Po,Vincent,1905 Edgewood Road,Dawson,IA,50066,2019-09-14,310,Scraper,7.99,8
+C-3Po,Vincent,1905 Edgewood Road,Dawson,IA,50066,2019-09-14,323,Hatchet,35.99,8
+On Medon,Mccarthy,6662 Madison Street,Williamsport,MD,21795,2019-09-15,328,Workbench,300.0,8
+On Medon,Mccarthy,6662 Madison Street,Williamsport,MD,21795,2019-09-15,320,Saw,20.99,6
+Rabe,Hunt,7682 Magnolia Court,Clyde,OH,43410,2019-09-15,319,Paint,19.99,8
+Rabe,Hunt,7682 Magnolia Court,Clyde,OH,43410,2019-09-15,314,Mallet,12.0,6
+Bala-Tik,Ingram,1819 Pheasant Run,Moca,PR,00676,2019-09-16,327,Ladder,80.0,3
+Shmi,Barker,1782 Pheasant Run,Newcastle,NE,68757,2019-09-17,328,Workbench,300.0,4
+Shmi,Barker,1782 Pheasant Run,Newcastle,NE,68757,2019-09-17,324,Wire,37.0,6
+Colonel Datoo,Wood,7150 Jefferson Court,Brandon,MS,39042,2019-09-17,311,Hammer,8.27,4
+Colonel Datoo,Wood,7150 Jefferson Court,Brandon,MS,39042,2019-09-17,312,Plane,10.99,6
+Bala-Tik,Zhang,1559 Lake Avenue,Traver,CA,93673,2019-09-18,304,Bolt,1.0,5
+Bala-Tik,Zhang,1559 Lake Avenue,Traver,CA,93673,2019-09-18,326,Drill,69.0,8
+Tey How,Gordon,5972 9th Street West,West Rutland,VT,05777,2019-09-18,321,Axe,27.99,5
+Tey How,Gordon,5972 9th Street West,West Rutland,VT,05777,2019-09-18,317,Level,16.99,8
+Shmi,Doyle,4288 Devon Road,Fort Lawn,SC,29714,2019-09-19,321,Axe,27.99,1
+Lama Su,Jennings,1963 Old York,Walnut Cove,NC,27052,2019-09-20,321,Axe,27.99,9
+Lama Su,Vincent,2114 4th Street,Ivor,VA,23866,2019-09-21,309,Chisel,4.99,6
+Lama Su,Vincent,2114 4th Street,Ivor,VA,23866,2019-09-21,322,Monkeywrench,29.95,9
+Piett,Mcbride,4982 Franklin Court,Boise,ID,83703,2019-09-21,312,Plane,10.99,6
+Piett,Mcbride,4982 Franklin Court,Boise,ID,83703,2019-09-21,309,Chisel,4.99,9
+Sola,Curtis,1280 Sycamore Street,Allardt,TN,38504,2019-09-22,314,Mallet,12.0,5
+Sola,Curtis,1280 Sycamore Street,Allardt,TN,38504,2019-09-22,318,Hacksaw,19.99,3
+C-3Po,Pollard,3934 Main Street,Manhattan,KS,66503,2019-09-22,322,Monkeywrench,29.95,5
+C-3Po,Pollard,3934 Main Street,Manhattan,KS,66503,2019-09-22,316,Anvil,16.2,3
+Sun Rit,Gordon,9543 2nd Street,Baton Rouge,LA,70811,2019-09-23,308,Screwdriver,3.0,5
+Rabe,Greene,8560 Pheasant Run,Hardyville,KY,42746,2019-09-24,324,Wire,37.0,1
+Snap,Jimenez,4890 4th Street,Belgrade,MO,63622,2019-09-25,304,Bolt,1.0,1
+Darth Maul,Walters,7851 Magnolia Court,Hope,ND,58046,2019-09-26,302,Nut,0.25,5
+Biggs,Greene,1555 Valley Road,Kahului,HI,96732,2019-09-27,312,Plane,10.99,6
+Fode/Beed,Miller,5786 Devon Road,Collins,GA,30421,2019-09-28,307,Sandpaper,3.0,5
+Plo Koon,Ferguson,3332 Prospect Street,Clyde,NY,14433,2019-09-29,302,Nut,0.25,1
+Captain Antilles,Curtis,2327 Prospect Street,Miami,FL,33127,2019-09-30,326,Drill,69.0,6

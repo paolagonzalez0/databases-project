@@ -1,0 +1,92 @@
+first,last,addr,city,state,zip,date,prod_id,prod_desc,unit_price,qty
+Clone Commander Cody,Vincent,1457 Valley Road,Honolulu,HI,96826,2019-08-01,321,Axe,27.99,6
+Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,2019-08-02,310,Scraper,7.99,6
+Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,2019-08-02,319,Paint,19.99,6
+C-3Po,Rivera,6661 Strawberry Lane,Granger,WY,82934,2019-08-02,315,Pliers,15.99,6
+C-3Po,Rivera,6661 Strawberry Lane,Granger,WY,82934,2019-08-02,328,Workbench,300.0,6
+Bala-Tik,Walker,8497 Washington Street,Greenwood,DE,19950,2019-08-03,311,Hammer,8.27,3
+Bala-Tik,Walker,8497 Washington Street,Greenwood,DE,19950,2019-08-03,316,Anvil,16.2,9
+Shmi,Barker,1782 Pheasant Run,Newcastle,NE,68757,2019-08-03,302,Nut,0.25,3
+Shmi,Barker,1782 Pheasant Run,Newcastle,NE,68757,2019-08-03,323,Hatchet,35.99,9
+Biggs,Todd,5221 Hawthorne Lane,Wytopitlock,ME,04497,2019-08-04,316,Anvil,16.2,4
+Tc-14,Le,5541 Lake Avenue,Raleigh,NC,27608,2019-08-05,315,Pliers,15.99,1
+Rey,Alvarez,3112 Madison Street,Palmer,MA,01069,2019-08-06,315,Pliers,15.99,1
+Rey,Alvarez,3112 Madison Street,Palmer,MA,01069,2019-08-06,304,Bolt,1.0,3
+Clone Commander Cody,Greene,1220 Route 44,Milmine,IL,61855,2019-08-06,311,Hammer,8.27,1
+Clone Commander Cody,Greene,1220 Route 44,Milmine,IL,61855,2019-08-06,318,Hacksaw,19.99,3
+Rabe,Woodward,2517 Lake Avenue,Scranton,PA,18505,2019-08-07,314,Mallet,12.0,5
+Obi-Wan,Miller,9760 Edgewood Road,Veedersburg,IN,47987,2019-08-08,318,Hacksaw,19.99,8
+Obi-Wan,Miller,9760 Edgewood Road,Veedersburg,IN,47987,2019-08-08,303,Screw,0.5,1
+Jira,Ingram,4992 Edgewood Road,Window Rock,AZ,86515,2019-08-08,306,Clamp,2.99,8
+Jira,Ingram,4992 Edgewood Road,Window Rock,AZ,86515,2019-08-08,328,Workbench,300.0,1
+Jango Fett,Vincent,8261 Washington Street,Salt Lake City,UT,84103,2019-08-09,324,Wire,37.0,2
+Jango Fett,Vincent,8261 Washington Street,Salt Lake City,UT,84103,2019-08-09,318,Hacksaw,19.99,1
+Dodonna,Ingram,5838 Route 1,Morris,OK,74445,2019-08-09,308,Screwdriver,3.0,2
+Dodonna,Ingram,5838 Route 1,Morris,OK,74445,2019-08-09,326,Drill,69.0,1
+Jango Fett,Walker,7827 William Street,Chesterhill,OH,43728,2019-08-10,309,Chisel,4.99,9
+Plo Koon,Jimenez,6255 Williams Street,Accomac,VA,23301,2019-08-11,311,Hammer,8.27,8
+C-3Po,Le,4801 William Street,Ashley,ND,58413,2019-08-12,300,Washer,0.1,5
+C-3Po,Le,4801 William Street,Ashley,ND,58413,2019-08-12,323,Hatchet,35.99,1
+Bala-Tik,Elliott,9088 Valley Road,Bayport,MN,55003,2019-08-12,322,Monkeywrench,29.95,5
+Bala-Tik,Elliott,9088 Valley Road,Bayport,MN,55003,2019-08-12,304,Bolt,1.0,1
+On Medon,Mcdaniel,5813 Devon Road,Lyman,UT,84749,2019-08-13,307,Sandpaper,3.0,4
+Clone Commander Cody,Benson,4836 Front Street,Spring Lake,NC,28390,2019-08-14,321,Axe,27.99,1
+Clone Commander Cody,Benson,4836 Front Street,Spring Lake,NC,28390,2019-08-14,325,Toolbox,50.0,8
+C-3Po,Greene,5014 Beechwood Drive,Las Vegas,NV,89143,2019-08-14,320,Saw,20.99,1
+C-3Po,Greene,5014 Beechwood Drive,Las Vegas,NV,89143,2019-08-14,310,Scraper,7.99,8
+Rey,Ingram,8895 Front Street South,North Matewan,WV,25688,2019-08-15,307,Sandpaper,3.0,4
+Rey,Ingram,8895 Front Street South,North Matewan,WV,25688,2019-08-15,314,Mallet,12.0,4
+Orn Free Taa,Rivera,4716 Jackson Avenue,Bethany,CT,06524,2019-08-15,327,Ladder,80.0,4
+Orn Free Taa,Rivera,4716 Jackson Avenue,Bethany,CT,06524,2019-08-15,314,Mallet,12.0,4
+Mace Windu,Greene,9572 9th Street,Windsor,IL,61957,2019-08-16,304,Bolt,1.0,8
+Mace Windu,Greene,9572 9th Street,Windsor,IL,61957,2019-08-16,313,Wrench,11.0,1
+On Medon,Curtis,2401 Edgewood Road,Baton Rouge,LA,70818,2019-08-16,327,Ladder,80.0,8
+On Medon,Curtis,2401 Edgewood Road,Baton Rouge,LA,70818,2019-08-16,320,Saw,20.99,1
+Obi-Wan,Adams,7379 Old York Road,Hunlock Creek,PA,18621,2019-08-17,311,Hammer,8.27,2
+Obi-Wan,Adams,7379 Old York Road,Hunlock Creek,PA,18621,2019-08-17,314,Mallet,12.0,6
+Fode/Beed,Adams,2420 Sycamore Street,Harper,OR,97906,2019-08-17,326,Drill,69.0,2
+Fode/Beed,Adams,2420 Sycamore Street,Harper,OR,97906,2019-08-17,328,Workbench,300.0,6
+Dodonna,Woodward,1204 Williams Street,Finksburg,MD,21048,2019-08-18,325,Toolbox,50.0,2
+Motti,Hunt,1919 Smith Street,Hamden,CT,06514,2019-08-19,310,Scraper,7.99,2
+Motti,Hunt,1919 Smith Street,Hamden,CT,06514,2019-08-19,314,Mallet,12.0,9
+Motti,Mcbride,2381 Lake Street,Maquoketa,IA,52060,2019-08-19,301,Nail,0.25,2
+Motti,Mcbride,2381 Lake Street,Maquoketa,IA,52060,2019-08-19,327,Ladder,80.0,9
+Motti,Doyle,5749 Old York,Marble Canyon,AZ,86036,2019-08-20,305,Bradawl,1.99,6
+Motti,Doyle,5749 Old York,Marble Canyon,AZ,86036,2019-08-20,328,Workbench,300.0,5
+C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,2019-08-20,302,Nut,0.25,6
+C-3Po,Doyle,8217 Route 44,Port Royal,SC,29935,2019-08-20,300,Washer,0.1,5
+Shmi,Miller,2866 Jefferson Court,Shoreham,NY,11786,2019-08-21,320,Saw,20.99,1
+Shmi,Miller,2866 Jefferson Court,Shoreham,NY,11786,2019-08-21,304,Bolt,1.0,6
+Rey,Mcbride,9348 William Street,Custer,MI,49405,2019-08-21,327,Ladder,80.0,1
+Rey,Mcbride,9348 William Street,Custer,MI,49405,2019-08-21,312,Plane,10.99,6
+Beru,Todd,7293 9th Street,Bountiful,UT,84010,2019-08-22,317,Level,16.99,7
+Senator Ask Aak,Zhang,8559 Route 1,South Wilmington,IL,60474,2019-08-23,300,Washer,0.1,6
+Senator Ask Aak,Zhang,8559 Route 1,South Wilmington,IL,60474,2019-08-23,325,Toolbox,50.0,6
+Unkar Plutt,Todd,8877 College Street,Washington,DC,20551,2019-08-23,305,Bradawl,1.99,6
+Unkar Plutt,Todd,8877 College Street,Washington,DC,20551,2019-08-23,318,Hacksaw,19.99,6
+Tc-14,Walters,4957 Sycamore Street,Roann,IN,46974,2019-08-24,320,Saw,20.99,1
+Tc-14,Walters,4957 Sycamore Street,Roann,IN,46974,2019-08-24,309,Chisel,4.99,4
+Rabe,Aguilar,5950 4th Street,Wetumpka,AL,36092,2019-08-24,323,Hatchet,35.99,1
+Rabe,Aguilar,5950 4th Street,Wetumpka,AL,36092,2019-08-24,301,Nail,0.25,4
+Rabe,Woodward,2517 Lake Avenue,Scranton,PA,18505,2019-08-25,316,Anvil,16.2,1
+Rabe,Woodward,2517 Lake Avenue,Scranton,PA,18505,2019-08-25,325,Toolbox,50.0,6
+Padme,Rivera,5882 Inverness Drive,Bard,NM,88411,2019-08-25,320,Saw,20.99,1
+Padme,Rivera,5882 Inverness Drive,Bard,NM,88411,2019-08-25,317,Level,16.99,6
+Plo Koon,Wood,8908 Strawberry Lane,Saukville,WI,53080,2019-08-26,302,Nut,0.25,5
+On Medon,Lara,7845 Heather Lane,Magna,UT,84044,2019-08-27,321,Axe,27.99,1
+Captain Antilles,Walker,8516 Pheasant Run,Washington,DC,20005,2019-08-28,328,Workbench,300.0,6
+Captain Antilles,Walker,8516 Pheasant Run,Washington,DC,20005,2019-08-28,325,Toolbox,50.0,5
+Motti,Alvarez,3797 Williams Street,Portland,OR,97213,2019-08-28,324,Wire,37.0,6
+Motti,Alvarez,3797 Williams Street,Portland,OR,97213,2019-08-28,319,Paint,19.99,5
+Nute Gunray,Jennings,9525 Route 1,East Orange,NJ,07018,2019-08-29,300,Washer,0.1,6
+Nute Gunray,Jennings,9525 Route 1,East Orange,NJ,07018,2019-08-29,319,Paint,19.99,7
+Rieekan,Wood,3440 Route 44,Roosevelt,TX,76874,2019-08-29,325,Toolbox,50.0,6
+Rieekan,Wood,3440 Route 44,Roosevelt,TX,76874,2019-08-29,319,Paint,19.99,7
+Tey How,Ferguson,9465 Williams Street,Saint Johns,MI,48879,2019-08-30,328,Workbench,300.0,2
+Tey How,Ferguson,9465 Williams Street,Saint Johns,MI,48879,2019-08-30,310,Scraper,7.99,8
+Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,2019-08-30,318,Hacksaw,19.99,2
+Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,2019-08-30,321,Axe,27.99,8
+Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,2019-08-31,309,Chisel,4.99,8
+Dodonna,Barker,6191 Madison Street,Alexandria,MO,63430,2019-08-31,316,Anvil,16.2,9
+Unkar Plutt,Todd,8877 College Street,Washington,DC,20551,2019-08-31,324,Wire,37.0,8
+Unkar Plutt,Todd,8877 College Street,Washington,DC,20551,2019-08-31,305,Bradawl,1.99,9

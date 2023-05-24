@@ -1,0 +1,92 @@
+first,last,addr,city,state,zip,date,prod_id,prod_desc,unit_price,qty
+Senator Ask Aak,Lara,7926 Front Street,Big Lake,TX,76932,2019-03-01,301,Nail,0.25,5
+Senator Ask Aak,Lara,7926 Front Street,Big Lake,TX,76932,2019-03-01,305,Bradawl,1.99,2
+Snap,Ingram,6563 Jackson Avenue,Judith Gap,MT,59453,2019-03-01,326,Drill,69.0,5
+Snap,Ingram,6563 Jackson Avenue,Judith Gap,MT,59453,2019-03-01,318,Hacksaw,19.99,2
+Plo Koon,Wood,8908 Strawberry Lane,Saukville,WI,53080,2019-03-02,312,Plane,10.99,3
+Lieutenant Mitaka,Rivera,7871 Valley Road,Neshanic Station,NJ,08853,2019-03-03,308,Screwdriver,3.0,4
+Lieutenant Mitaka,Rivera,7871 Valley Road,Neshanic Station,NJ,08853,2019-03-03,301,Nail,0.25,9
+Captain Antilles,Adams,8402 Lake Street,Washington,ME,04574,2019-03-03,303,Screw,0.5,4
+Captain Antilles,Adams,8402 Lake Street,Washington,ME,04574,2019-03-03,309,Chisel,4.99,9
+Bala-Tik,Walker,8497 Washington Street,Greenwood,DE,19950,2019-03-04,308,Screwdriver,3.0,9
+Lieutenant Mitaka,Oneill,7853 Devonshire Drive,Minneapolis,MN,55403,2019-03-05,306,Clamp,2.99,6
+Padme,Le,1031 Pheasant Run,Las Vegas,NV,89178,2019-03-06,328,Workbench,300.0,8
+Padme,Le,1031 Pheasant Run,Las Vegas,NV,89178,2019-03-06,312,Plane,10.99,7
+Biggs,Zhang,9395 Lexington Court,Toulon,IL,61483,2019-03-06,319,Paint,19.99,8
+Biggs,Zhang,9395 Lexington Court,Toulon,IL,61483,2019-03-06,312,Plane,10.99,7
+Plo Koon,Mcbride,1716 Prospect Street,Wellesley,MA,02482,2019-03-07,326,Drill,69.0,1
+Plo Koon,Mcbride,1716 Prospect Street,Wellesley,MA,02482,2019-03-07,310,Scraper,7.99,4
+Jira,Walters,8240 Inverness Drive,Hindman,KY,41822,2019-03-07,306,Clamp,2.99,1
+Jira,Walters,8240 Inverness Drive,Hindman,KY,41822,2019-03-07,302,Nut,0.25,4
+Mace Windu,Greene,9572 9th Street,Windsor,IL,61957,2019-03-08,313,Wrench,11.0,5
+Colonel Datoo,Wood,7150 Jefferson Court,Brandon,MS,39042,2019-03-09,319,Paint,19.99,3
+Colonel Datoo,Wood,7150 Jefferson Court,Brandon,MS,39042,2019-03-09,329,Chainsaw,499.99,5
+Motti,Doyle,5749 Old York,Marble Canyon,AZ,86036,2019-03-09,301,Nail,0.25,3
+Motti,Doyle,5749 Old York,Marble Canyon,AZ,86036,2019-03-09,317,Level,16.99,5
+Shmi,Mitchell,1517 Front Street South,Fox Lake,IL,60020,2019-03-10,322,Monkeywrench,29.95,7
+Shmi,Mitchell,1517 Front Street South,Fox Lake,IL,60020,2019-03-10,319,Paint,19.99,2
+Plo Koon,Jimenez,6255 Williams Street,Accomac,VA,23301,2019-03-10,313,Wrench,11.0,7
+Plo Koon,Jimenez,6255 Williams Street,Accomac,VA,23301,2019-03-10,301,Nail,0.25,2
+Sun Rit,Burke,8210 9th Street,Waipahu,HI,96797,2019-03-11,325,Toolbox,50.0,9
+Sun Rit,Burke,8210 9th Street,Waipahu,HI,96797,2019-03-11,305,Bradawl,1.99,3
+Motti,Adams,8896 Pheasant Run,Ranson,WV,25438,2019-03-11,327,Ladder,80.0,9
+Motti,Adams,8896 Pheasant Run,Ranson,WV,25438,2019-03-11,315,Pliers,15.99,3
+Sun Rit,Mitchell,3010 Sycamore Drive,Los Angeles,CA,90048,2019-03-12,328,Workbench,300.0,2
+Sun Rit,Mitchell,3010 Sycamore Drive,Los Angeles,CA,90048,2019-03-12,324,Wire,37.0,6
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2019-03-12,325,Toolbox,50.0,2
+Snap,Miller,2240 3rd Street,Philipp,MS,38950,2019-03-12,311,Hammer,8.27,6
+Sun Rit,Walker,3961 Beechwood Drive,Tonopah,AZ,85354,2019-03-13,313,Wrench,11.0,1
+Clone Commander Cody,Le,2287 Main Street,Byron,GA,31008,2019-03-14,323,Hatchet,35.99,7
+Clone Commander Cody,Le,2287 Main Street,Byron,GA,31008,2019-03-14,305,Bradawl,1.99,8
+Motti,Thornton,7510 Lexington Court,Arlington,VA,22203,2019-03-14,309,Chisel,4.99,7
+Motti,Thornton,7510 Lexington Court,Arlington,VA,22203,2019-03-14,310,Scraper,7.99,8
+Lama Su,Rodriguez,2755 Devon Road,Fort Myers,FL,33907,2019-03-15,302,Nut,0.25,8
+Lama Su,Rodriguez,2755 Devon Road,Fort Myers,FL,33907,2019-03-15,306,Clamp,2.99,6
+Orn Free Taa,Doyle,4493 Edgewood Road,Greenwood Lake,NY,10925,2019-03-15,315,Pliers,15.99,8
+Orn Free Taa,Doyle,4493 Edgewood Road,Greenwood Lake,NY,10925,2019-03-15,306,Clamp,2.99,6
+C-3Po,Jennings,2134 3rd Street,Broadview,MT,59015,2019-03-16,317,Level,16.99,8
+C-3Po,Jennings,2134 3rd Street,Broadview,MT,59015,2019-03-16,321,Axe,27.99,8
+Wedge,Gordon,2566 2nd Street,Miami,FL,33196,2019-03-16,328,Workbench,300.0,8
+Wedge,Gordon,2566 2nd Street,Miami,FL,33196,2019-03-16,304,Bolt,1.0,8
+Jango Fett,Vincent,8261 Washington Street,Salt Lake City,UT,84103,2019-03-17,328,Workbench,300.0,5
+Jango Fett,Vincent,8261 Washington Street,Salt Lake City,UT,84103,2019-03-17,305,Bradawl,1.99,1
+Captain Antilles,Thornton,4842 Fawn Court,Clarkson,NE,68629,2019-03-17,314,Mallet,12.0,5
+Captain Antilles,Thornton,4842 Fawn Court,Clarkson,NE,68629,2019-03-17,315,Pliers,15.99,1
+C-3Po,Miller,9992 Heather Lane,Vanzant,MO,65768,2019-03-18,328,Workbench,300.0,8
+C-3Po,Miller,9992 Heather Lane,Vanzant,MO,65768,2019-03-18,304,Bolt,1.0,6
+Colonel Datoo,Schmidt,8706 Devonshire Drive,Pleasant Hill,CA,94523,2019-03-18,316,Anvil,16.2,8
+Colonel Datoo,Schmidt,8706 Devonshire Drive,Pleasant Hill,CA,94523,2019-03-18,325,Toolbox,50.0,6
+Orn Free Taa,Rivera,4716 Jackson Avenue,Bethany,CT,06524,2019-03-19,309,Chisel,4.99,3
+Biggs,Zhang,9395 Lexington Court,Toulon,IL,61483,2019-03-20,326,Drill,69.0,1
+Biggs,Zhang,9395 Lexington Court,Toulon,IL,61483,2019-03-20,309,Chisel,4.99,2
+Unkar Plutt,Schmidt,9546 Brookside Drive,Chippewa Bay,NY,13623,2019-03-20,324,Wire,37.0,1
+Unkar Plutt,Schmidt,9546 Brookside Drive,Chippewa Bay,NY,13623,2019-03-20,315,Pliers,15.99,2
+Lieutenant Mitaka,Rodriguez,3816 5th Street East,Smiths Grove,KY,42171,2019-03-21,306,Clamp,2.99,5
+Padme,Todd,9619 Beechwood Drive,Stratford,CT,06615,2019-03-22,325,Toolbox,50.0,7
+Padme,Todd,9619 Beechwood Drive,Stratford,CT,06615,2019-03-22,309,Chisel,4.99,8
+Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,2019-03-22,306,Clamp,2.99,7
+Tc-14,Alvarez,4109 Pheasant Run,Superior,WY,82945,2019-03-22,326,Drill,69.0,8
+Jira,Ingram,4992 Edgewood Road,Window Rock,AZ,86515,2019-03-23,313,Wrench,11.0,5
+Jira,Ingram,4992 Edgewood Road,Window Rock,AZ,86515,2019-03-23,320,Saw,20.99,5
+Orn Free Taa,Zhang,6043 Strawberry Lane,Patterson,AR,72123,2019-03-23,313,Wrench,11.0,5
+Orn Free Taa,Zhang,6043 Strawberry Lane,Patterson,AR,72123,2019-03-23,323,Hatchet,35.99,5
+Tey How,Barker,4683 Lexington Court,East Wallingford,VT,05742,2019-03-24,324,Wire,37.0,5
+Beru,Miller,3490 Washington Street,Colorado Springs,CO,80922,2019-03-25,308,Screwdriver,3.0,9
+Beru,Miller,3490 Washington Street,Colorado Springs,CO,80922,2019-03-25,300,Washer,0.1,6
+Captain Antilles,Adams,8402 Lake Street,Washington,ME,04574,2019-03-25,320,Saw,20.99,9
+Captain Antilles,Adams,8402 Lake Street,Washington,ME,04574,2019-03-25,312,Plane,10.99,6
+Rieekan,Rivera,7590 Washington Street,Winterthur,DE,19735,2019-03-26,315,Pliers,15.99,3
+Rieekan,Rivera,7590 Washington Street,Winterthur,DE,19735,2019-03-26,321,Axe,27.99,5
+Shmi,Hunt,9978 Sycamore Drive,Ensenada,PR,00647,2019-03-26,301,Nail,0.25,3
+Shmi,Hunt,9978 Sycamore Drive,Ensenada,PR,00647,2019-03-26,323,Hatchet,35.99,5
+On Medon,Lara,7845 Heather Lane,Magna,UT,84044,2019-03-27,312,Plane,10.99,4
+On Medon,Lara,7845 Heather Lane,Magna,UT,84044,2019-03-27,301,Nail,0.25,3
+Wedge,Elliott,7110 Strawberry Lane,East Wakefield,NH,03830,2019-03-27,300,Washer,0.1,4
+Wedge,Elliott,7110 Strawberry Lane,East Wakefield,NH,03830,2019-03-27,323,Hatchet,35.99,3
+Piett,Mccarthy,4997 Park Avenue,Patten,ME,04765,2019-03-28,305,Bradawl,1.99,5
+Piett,Ferguson,3652 Front Street,Talmage,UT,84073,2019-03-29,300,Washer,0.1,9
+Piett,Ferguson,3652 Front Street,Talmage,UT,84073,2019-03-29,310,Scraper,7.99,4
+Darth Maul,Rodriguez,4333 Front Street,Boothbay,ME,04537,2019-03-29,310,Scraper,7.99,9
+Darth Maul,Rodriguez,4333 Front Street,Boothbay,ME,04537,2019-03-29,324,Wire,37.0,4
+Jabba,Oneill,9371 Walnut Street,Swampscott,MA,01907,2019-03-30,304,Bolt,1.0,6
+Piett,Schmidt,6242 Lake Street,Birmingham,AL,35212,2019-03-31,317,Level,16.99,6

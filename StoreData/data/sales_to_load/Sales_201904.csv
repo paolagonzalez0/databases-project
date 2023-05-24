@@ -1,0 +1,85 @@
+first,last,addr,city,state,zip,date,prod_id,prod_desc,unit_price,qty
+Bib Fortuna,Mitchell,8088 Lake Street,Collinston,UT,84306,2019-04-01,304,Bolt,1.0,2
+Tey How,Barker,4683 Lexington Court,East Wallingford,VT,05742,2019-04-02,305,Bradawl,1.99,8
+Tey How,Barker,4683 Lexington Court,East Wallingford,VT,05742,2019-04-02,316,Anvil,16.2,9
+Unkar Plutt,Walker,2416 Pheasant Run,Homer,NE,68030,2019-04-02,320,Saw,20.99,8
+Unkar Plutt,Walker,2416 Pheasant Run,Homer,NE,68030,2019-04-02,303,Screw,0.5,9
+Piett,Jimenez,8477 Prospect Street,Rumford,RI,02916,2019-04-03,311,Hammer,8.27,2
+Piett,Jimenez,8477 Prospect Street,Rumford,RI,02916,2019-04-03,320,Saw,20.99,5
+Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,2019-04-03,327,Ladder,80.0,2
+Gold Leader,Zhang,9744 Park Avenue,Washington,DC,20202,2019-04-03,303,Screw,0.5,5
+C-3Po,Greene,5014 Beechwood Drive,Las Vegas,NV,89143,2019-04-04,301,Nail,0.25,4
+Colonel Datoo,Zhang,3165 Lake Street,Central Lake,MI,49622,2019-04-05,313,Wrench,11.0,5
+Gold Leader,Todd,508 Magnolia Court,Memphis,TN,38119,2019-04-06,313,Wrench,11.0,7
+Sola,Francis,8313 Main Street,Central Falls,RI,02863,2019-04-07,324,Wire,37.0,8
+Sola,Francis,8313 Main Street,Central Falls,RI,02863,2019-04-07,300,Washer,0.1,8
+Senator Ask Aak,Zhang,8559 Route 1,South Wilmington,IL,60474,2019-04-07,301,Nail,0.25,8
+Senator Ask Aak,Zhang,8559 Route 1,South Wilmington,IL,60474,2019-04-07,327,Ladder,80.0,8
+Sun Rit,Walker,3828 Brookside Drive,Wales Center,NY,14169,2019-04-08,327,Ladder,80.0,9
+Sun Rit,Walker,3828 Brookside Drive,Wales Center,NY,14169,2019-04-08,320,Saw,20.99,6
+Sun Rit,Gordon,9543 2nd Street,Baton Rouge,LA,70811,2019-04-08,305,Bradawl,1.99,9
+Sun Rit,Gordon,9543 2nd Street,Baton Rouge,LA,70811,2019-04-08,302,Nut,0.25,6
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2019-04-09,325,Toolbox,50.0,1
+Rabe,Hunt,7682 Magnolia Court,Clyde,OH,43410,2019-04-10,321,Axe,27.99,6
+Rabe,Hunt,7682 Magnolia Court,Clyde,OH,43410,2019-04-10,300,Washer,0.1,7
+Rey,Mcbride,9348 William Street,Custer,MI,49405,2019-04-10,323,Hatchet,35.99,6
+Rey,Mcbride,9348 William Street,Custer,MI,49405,2019-04-10,313,Wrench,11.0,7
+Biggs,Wood,7848 9th Street West,Quanah,TX,79252,2019-04-11,302,Nut,0.25,7
+Biggs,Wood,7848 9th Street West,Quanah,TX,79252,2019-04-11,324,Wire,37.0,8
+Unkar Plutt,Schmidt,9546 Brookside Drive,Chippewa Bay,NY,13623,2019-04-11,329,Chainsaw,499.99,7
+Unkar Plutt,Schmidt,9546 Brookside Drive,Chippewa Bay,NY,13623,2019-04-11,312,Plane,10.99,8
+Piett,Mccarthy,4997 Park Avenue,Patten,ME,04765,2019-04-12,312,Plane,10.99,3
+Piett,Mccarthy,4997 Park Avenue,Patten,ME,04765,2019-04-12,313,Wrench,11.0,1
+Taun We,Vincent,2331 Smith Street,Londonderry,VT,05148,2019-04-12,319,Paint,19.99,3
+Taun We,Vincent,2331 Smith Street,Londonderry,VT,05148,2019-04-12,320,Saw,20.99,1
+Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,2019-04-13,322,Monkeywrench,29.95,9
+Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,2019-04-13,306,Clamp,2.99,5
+Unkar Plutt,Benson,3640 Magnolia Court,Bryants Store,KY,40921,2019-04-13,311,Hammer,8.27,9
+Unkar Plutt,Benson,3640 Magnolia Court,Bryants Store,KY,40921,2019-04-13,313,Wrench,11.0,5
+Captain Antilles,Rodriguez,4648 Lake Street,Barton City,MI,48705,2019-04-14,322,Monkeywrench,29.95,3
+Captain Antilles,Rodriguez,4648 Lake Street,Barton City,MI,48705,2019-04-14,320,Saw,20.99,8
+Rieekan,Mccarthy,8944 Canterbury Drive,Dunseith,ND,58329,2019-04-14,323,Hatchet,35.99,3
+Rieekan,Mccarthy,8944 Canterbury Drive,Dunseith,ND,58329,2019-04-14,308,Screwdriver,3.0,8
+Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,2019-04-15,311,Hammer,8.27,9
+Tc-14,Rodriguez,3572 Franklin Court,Franklin,PA,16323,2019-04-16,304,Bolt,1.0,7
+Tc-14,Rodriguez,3572 Franklin Court,Franklin,PA,16323,2019-04-16,309,Chisel,4.99,2
+On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,2019-04-16,312,Plane,10.99,7
+On Medon,Hunt,8442 Edgewood Road,Gooding,ID,83330,2019-04-16,311,Hammer,8.27,2
+Snap,Rivera,7148 Jackson Avenue,Albion,RI,02802,2019-04-17,317,Level,16.99,9
+Snap,Rivera,7148 Jackson Avenue,Albion,RI,02802,2019-04-17,311,Hammer,8.27,2
+Taun We,Oneill,5827 Jefferson Court,Linn,MO,65051,2019-04-17,320,Saw,20.99,9
+Taun We,Oneill,5827 Jefferson Court,Linn,MO,65051,2019-04-17,322,Monkeywrench,29.95,2
+Rieekan,Jimenez,5165 5th Street,Rockbridge,OH,43149,2019-04-18,308,Screwdriver,3.0,1
+Rieekan,Jimenez,5165 5th Street,Rockbridge,OH,43149,2019-04-18,322,Monkeywrench,29.95,6
+Motti,Bass,2326 Brookside Drive,Seven Valleys,PA,17360,2019-04-18,306,Clamp,2.99,1
+Motti,Bass,2326 Brookside Drive,Seven Valleys,PA,17360,2019-04-18,302,Nut,0.25,6
+Tey How,Mccarthy,5313 9th Street,Memphis,TN,38104,2019-04-19,326,Drill,69.0,9
+Tey How,Mccarthy,5313 9th Street,Memphis,TN,38104,2019-04-19,308,Screwdriver,3.0,8
+Obi-Wan,Miller,9760 Edgewood Road,Veedersburg,IN,47987,2019-04-19,322,Monkeywrench,29.95,9
+Obi-Wan,Miller,9760 Edgewood Road,Veedersburg,IN,47987,2019-04-19,327,Ladder,80.0,8
+Padme,Woodward,6663 Smith Street,Punta Santiago,PR,00741,2019-04-20,305,Bradawl,1.99,1
+Padme,Woodward,6663 Smith Street,Punta Santiago,PR,00741,2019-04-20,325,Toolbox,50.0,8
+Clone Commander Cody,Benson,8861 Lexington Court,Great Barrington,MA,01230,2019-04-20,302,Nut,0.25,1
+Clone Commander Cody,Benson,8861 Lexington Court,Great Barrington,MA,01230,2019-04-20,327,Ladder,80.0,8
+Piett,Johnston,4152 Prospect Street,Beaver,WV,25813,2019-04-21,309,Chisel,4.99,7
+Plo Koon,Mcbride,1716 Prospect Street,Wellesley,MA,02482,2019-04-22,322,Monkeywrench,29.95,2
+Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,2019-04-23,319,Paint,19.99,1
+Rey,Miller,9379 Beechwood Drive,Petersburg,OH,44454,2019-04-23,317,Level,16.99,8
+Captain Antilles,Garza,1372 9th Street,Lane,SD,57358,2019-04-23,301,Nail,0.25,1
+Captain Antilles,Garza,1372 9th Street,Lane,SD,57358,2019-04-23,315,Pliers,15.99,8
+Motti,Doyle,5749 Old York,Marble Canyon,AZ,86036,2019-04-24,312,Plane,10.99,2
+Biggs,Zhang,9395 Lexington Court,Toulon,IL,61483,2019-04-25,301,Nail,0.25,6
+Biggs,Zhang,9395 Lexington Court,Toulon,IL,61483,2019-04-25,305,Bradawl,1.99,7
+Darth Maul,Gordon,3869 Franklin Court,Harbeson,DE,19951,2019-04-25,321,Axe,27.99,6
+Darth Maul,Gordon,3869 Franklin Court,Harbeson,DE,19951,2019-04-25,307,Sandpaper,3.0,7
+Senator Ask Aak,Chen,2027 Pheasant Run,Wayne,NJ,07470,2019-04-26,329,Chainsaw,499.99,4
+Senator Ask Aak,Chen,2027 Pheasant Run,Wayne,NJ,07470,2019-04-26,313,Wrench,11.0,4
+Plo Koon,Bass,3284 9th Street,Fort Mc Coy,FL,32134,2019-04-26,322,Monkeywrench,29.95,4
+Plo Koon,Bass,3284 9th Street,Fort Mc Coy,FL,32134,2019-04-26,314,Mallet,12.0,4
+Jabba,Rivera,7617 Main Street East,Palmyra,ME,04965,2019-04-27,316,Anvil,16.2,6
+Piett,Mcbride,4982 Franklin Court,Boise,ID,83703,2019-04-28,302,Nut,0.25,8
+Padme,Le,5873 Briarwood Court,Selden,KS,67757,2019-04-29,329,Chainsaw,499.99,9
+Padme,Le,5873 Briarwood Court,Selden,KS,67757,2019-04-29,317,Level,16.99,4
+Biggs,Zhang,9395 Lexington Court,Toulon,IL,61483,2019-04-29,305,Bradawl,1.99,9
+Biggs,Zhang,9395 Lexington Court,Toulon,IL,61483,2019-04-29,329,Chainsaw,499.99,4
+Tc-14,Hunt,4206 Canterbury Drive,Viroqua,WI,54665,2019-04-30,319,Paint,19.99,7

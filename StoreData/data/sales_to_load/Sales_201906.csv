@@ -1,0 +1,70 @@
+first,last,addr,city,state,zip,date,prod_id,prod_desc,unit_price,qty
+Senator Ask Aak,Zhang,8559 Route 1,South Wilmington,IL,60474,2019-06-01,322,Monkeywrench,29.95,9
+Senator Ask Aak,Zhang,8559 Route 1,South Wilmington,IL,60474,2019-06-01,303,Screw,0.5,3
+Rey,Oneill,8718 9th Street,Greenville,SC,29617,2019-06-01,309,Chisel,4.99,9
+Rey,Oneill,8718 9th Street,Greenville,SC,29617,2019-06-01,301,Nail,0.25,3
+Jabba,Jimenez,7728 Route 1,Anchorage,AK,99503,2019-06-02,301,Nail,0.25,6
+Jabba,Jimenez,7728 Route 1,Anchorage,AK,99503,2019-06-02,300,Washer,0.1,3
+Dodonna,Burke,3580 Jefferson Court,Hollenberg,KS,66946,2019-06-02,316,Anvil,16.2,6
+Dodonna,Burke,3580 Jefferson Court,Hollenberg,KS,66946,2019-06-02,304,Bolt,1.0,3
+Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,2019-06-03,324,Wire,37.0,9
+Lama Su,Vincent,2049 Route 44,Salome,AZ,85348,2019-06-03,316,Anvil,16.2,1
+Captain Antilles,Walters,8754 2nd Street,Douglassville,TX,75560,2019-06-03,315,Pliers,15.99,9
+Captain Antilles,Walters,8754 2nd Street,Douglassville,TX,75560,2019-06-03,301,Nail,0.25,1
+Captain Antilles,Rodriguez,4648 Lake Street,Barton City,MI,48705,2019-06-04,322,Monkeywrench,29.95,3
+Shmi,Aguilar,7723 Smith Street,Pelion,SC,29123,2019-06-05,310,Scraper,7.99,3
+Obi-Wan,Mcbride,1037 Strawberry Lane,Kansas City,MO,64127,2019-06-06,306,Clamp,2.99,3
+Captain Antilles,Garza,1372 9th Street,Lane,SD,57358,2019-06-07,318,Hacksaw,19.99,8
+Captain Antilles,Mcdaniel,6326 Heather Lane,Ohatchee,AL,36271,2019-06-08,321,Axe,27.99,7
+Jobal,Mitchell,1198 West Avenue,Falkner,MS,38629,2019-06-09,322,Monkeywrench,29.95,8
+Jobal,Mitchell,1198 West Avenue,Falkner,MS,38629,2019-06-09,311,Hammer,8.27,9
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2019-06-09,322,Monkeywrench,29.95,8
+Orn Free Taa,Burke,896 Lake Street,Tempe,AZ,85283,2019-06-09,324,Wire,37.0,9
+Snap,Pollard,4987 Sycamore Drive,Mc Louth,KS,66054,2019-06-10,300,Washer,0.1,2
+Jabba,Thornton,8523 Hawthorne Lane,Wardsboro,VT,05355,2019-06-11,305,Bradawl,1.99,9
+Bib Fortuna,Elliott,5364 Heather Lane,Gig Harbor,WA,98335,2019-06-12,307,Sandpaper,3.0,9
+Bib Fortuna,Elliott,5364 Heather Lane,Gig Harbor,WA,98335,2019-06-12,311,Hammer,8.27,7
+Bala-Tik,Rodriguez,7381 3rd Street,Wagner,SD,57380,2019-06-12,326,Drill,69.0,9
+Bala-Tik,Rodriguez,7381 3rd Street,Wagner,SD,57380,2019-06-12,308,Screwdriver,3.0,7
+Piett,Mcbride,9892 West Avenue,Seaside,OR,97138,2019-06-13,329,Chainsaw,499.99,8
+Bala-Tik,Schmidt,3353 Front Street,New Britain,CT,06053,2019-06-14,300,Washer,0.1,8
+Bala-Tik,Schmidt,3353 Front Street,New Britain,CT,06053,2019-06-14,315,Pliers,15.99,8
+Beru,Todd,7293 9th Street,Bountiful,UT,84010,2019-06-14,306,Clamp,2.99,8
+Beru,Todd,7293 9th Street,Bountiful,UT,84010,2019-06-14,302,Nut,0.25,8
+On Medon,Curtis,1971 Lake Street,Stuart,OK,74570,2019-06-15,311,Hammer,8.27,6
+On Medon,Curtis,1971 Lake Street,Stuart,OK,74570,2019-06-15,323,Hatchet,35.99,8
+Senator Ask Aak,Ingram,3141 Sycamore Drive,Wilson,LA,70789,2019-06-15,311,Hammer,8.27,6
+Senator Ask Aak,Ingram,3141 Sycamore Drive,Wilson,LA,70789,2019-06-15,317,Level,16.99,8
+Taun We,Rivera,5813 Prospect Street,Yeso,NM,88136,2019-06-16,324,Wire,37.0,8
+Dodonna,Gordon,5477 Jefferson Court,Phoenix,AZ,85023,2019-06-17,302,Nut,0.25,7
+Dodonna,Gordon,5477 Jefferson Court,Phoenix,AZ,85023,2019-06-17,316,Anvil,16.2,5
+Piett,Mcbride,4982 Franklin Court,Boise,ID,83703,2019-06-17,326,Drill,69.0,7
+Piett,Mcbride,4982 Franklin Court,Boise,ID,83703,2019-06-17,317,Level,16.99,5
+Padme,Le,5873 Briarwood Court,Selden,KS,67757,2019-06-18,303,Screw,0.5,9
+Padme,Le,5873 Briarwood Court,Selden,KS,67757,2019-06-18,324,Wire,37.0,2
+Bib Fortuna,Mitchell,8088 Lake Street,Collinston,UT,84306,2019-06-18,303,Screw,0.5,9
+Bib Fortuna,Mitchell,8088 Lake Street,Collinston,UT,84306,2019-06-18,307,Sandpaper,3.0,2
+Colonel Datoo,Johnston,7994 West Avenue,Richmond,VA,23226,2019-06-19,315,Pliers,15.99,8
+Colonel Datoo,Johnston,7994 West Avenue,Richmond,VA,23226,2019-06-19,312,Plane,10.99,6
+Sola,Curtis,1280 Sycamore Street,Allardt,TN,38504,2019-06-19,328,Workbench,300.0,8
+Sola,Curtis,1280 Sycamore Street,Allardt,TN,38504,2019-06-19,302,Nut,0.25,6
+Motti,Adams,8896 Pheasant Run,Ranson,WV,25438,2019-06-20,323,Hatchet,35.99,4
+Lama Su,Doyle,4119 Jackson Avenue,Titusville,FL,32796,2019-06-21,310,Scraper,7.99,4
+Lama Su,Doyle,4119 Jackson Avenue,Titusville,FL,32796,2019-06-21,318,Hacksaw,19.99,6
+Gold Leader,Todd,508 Magnolia Court,Memphis,TN,38119,2019-06-21,306,Clamp,2.99,4
+Gold Leader,Todd,508 Magnolia Court,Memphis,TN,38119,2019-06-21,322,Monkeywrench,29.95,6
+Shmi,Gordon,9637 Heather Lane,Cable,WI,54821,2019-06-22,326,Drill,69.0,8
+Tc-14,Doyle,7533 Sycamore Drive,Kilbourne,LA,71253,2019-06-23,303,Screw,0.5,8
+Bala-Tik,Miller,8714 Washington Street,Thomaston,GA,30286,2019-06-24,318,Hacksaw,19.99,7
+Orn Free Taa,Benson,6973 Park Avenue,Fairplay,CO,80440,2019-06-25,305,Bradawl,1.99,6
+Orn Free Taa,Benson,6973 Park Avenue,Fairplay,CO,80440,2019-06-25,320,Saw,20.99,3
+Gold Leader,Todd,508 Magnolia Court,Memphis,TN,38119,2019-06-25,325,Toolbox,50.0,6
+Gold Leader,Todd,508 Magnolia Court,Memphis,TN,38119,2019-06-25,327,Ladder,80.0,3
+On Medon,Curtis,4469 Valley Road,Caldwell,KS,67022,2019-06-26,306,Clamp,2.99,4
+Motti,Hunt,1919 Smith Street,Hamden,CT,06514,2019-06-27,315,Pliers,15.99,9
+Bib Fortuna,Elliott,5364 Heather Lane,Gig Harbor,WA,98335,2019-06-28,324,Wire,37.0,2
+Bib Fortuna,Elliott,5364 Heather Lane,Gig Harbor,WA,98335,2019-06-28,319,Paint,19.99,9
+Dodonna,Walters,2281 2nd Street,Bridgeport,NJ,08014,2019-06-28,300,Washer,0.1,2
+Dodonna,Walters,2281 2nd Street,Bridgeport,NJ,08014,2019-06-28,307,Sandpaper,3.0,9
+Senator Ask Aak,Mitchell,3854 Walnut Street,Modoc,IN,47358,2019-06-29,320,Saw,20.99,8
+Clone Commander Cody,Le,2287 Main Street,Byron,GA,31008,2019-06-30,303,Screw,0.5,6
